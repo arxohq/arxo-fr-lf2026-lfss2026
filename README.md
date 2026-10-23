@@ -151,6 +151,9 @@ Le 23 octobre 2026, par le formulaire Légifrance :
 - la DILA — B1, B2, B3 et B4 (pour B4, uniquement la version LEGIARTI000053593049,
   après vérification des liens affichés sur le site).
 
+Le 23 octobre 2026, un message a été envoyé par le formulaire du ministère de la Santé,
+à l'attention de la DSS (bureaux 5B et 1A) et de la DGOS — B1, B3, A4, A5.
+
 D'autres services seront ajoutés ici à mesure des envois.
 
 ## Reproduire
