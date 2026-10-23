@@ -147,6 +147,10 @@ Le 23 octobre 2026, par courrier électronique :
   proposition de rédaction pour l'article 199 sexdecies ;
 - la DILA, avec copie à la DGFiP (fiscalité locale) — points de consolidation (B1 à B4).
 
+Le 23 octobre 2026, par le formulaire Légifrance :
+- la DILA — B1, B2, B3 et B4 (pour B4, uniquement la version LEGIARTI000053593049,
+  après vérification des liens affichés sur le site).
+
 D'autres services seront ajoutés ici à mesure des envois.
 
 ## Reproduire
