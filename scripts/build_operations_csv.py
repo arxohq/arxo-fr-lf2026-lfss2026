@@ -118,7 +118,7 @@ def main() -> int:
                 "detail": (o.get("detail") or "").replace("\n", " "),
             })
     with open(a.out, "w", newline="", encoding="utf-8") as fh:
-        w = csv.DictWriter(fh, fieldnames=list(rows[0]))
+        w = csv.DictWriter(fh, fieldnames=list(rows[0]), lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
     print(len(rows), "rows")
