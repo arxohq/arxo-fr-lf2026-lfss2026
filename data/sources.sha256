@@ -1,0 +1,35 @@
+# Sources de la vérification (LFSS 2026 et LF 2026). Format : sha256  fichier  origine / remarque.
+# Données DILA réutilisées sous Licence Ouverte 2.0 (Etalab). Les archives ne sont pas dans ce dépôt ;
+# elles se téléchargent à l'adresse indiquée et se vérifient par leur empreinte.
+
+## LEGI (consolidation ; ce n'est pas un texte authentique)
+f862b4a2238e11ec3c48ec70f3b1c68bac0bb1985907841666b98608653d4eca  Freemium_legi_global_20250713-140000.tar.gz  https://echanges.dila.gouv.fr/OPENDATA/LEGI/  (1 171 027 316 octets)
+#   473 incréments quotidiens LEGI_20250712-211706 … LEGI_20261021-213023 : empreintes, tailles, nombre de fichiers et de suppressions dans raw/legi-archives.tsv
+b231b37e62830b528f13b45cdde0eaf379bffcbb99896e25c5b64aba2a67662d  LEGI_20261022-214745.tar.gz  dernier incrément au 23/10/2026 ; ne modifie aucun des articles des constats (legi-check-20261022.json)
+
+## JORF (textes publiés, XML de la DILA ; édition électronique, pas le JO authentique en PDF)
+d96fc1758b86262ccdf06eac1e9db81d62daaa006817170ac29d48a5618d6d8a  JORF_20251231-020917.tar.gz  https://echanges.dila.gouv.fr/OPENDATA/JORF/  (JO n° 0306 du 31/12/2025 : LFSS 2026, décision 2025-899 DC)
+91df4f307c5964b8bcd0aeae229849b9c8df12cf7fc2b5ed9766ca0087fe16c8  JORF_20260220-015513.tar.gz  https://echanges.dila.gouv.fr/OPENDATA/JORF/  (JO n° 0043 du 20/02/2026 : LF 2026, décision 2026-901 DC)
+7d84c80ce524a9f73fba682b87efecbdb974b1e004f504016081a507408b036a  JORF_20260523-002456.tar.gz  rectificatif à la LFSS 2026 (JO n° 0120 du 23/05/2026, JORFTEXT000054125097)
+652798c004800c0ced2bb7b14f101178237344906fc9ef04b0a2aabe467779cf  JORF_20261010-002617.tar.gz  rectificatif à la LF 2026 (JO n° 0237 du 10/10/2026, JORFTEXT000054969274)
+#   Les 551 archives quotidiennes du 31/12/2025 au 23/10/2026 (toutes celles de la liste DILA sur la période) : rectificatifs-jorf-20251231-20261023.json
+
+## Textes extraits du JORF (sha256 des XML)
+a96ca10f06ce687b3a0478559ece9dd70475dec6828a733132720ff2d8596f53  JORFTEXT000053226384 texte/struct  (loi n° 2025-1403 du 30/12/2025, LFSS 2026)
+d55ebf4292a500e2c41bcc1bd28c2600bb0d684fe6abf43b84d6a147d79db374  JORFTEXT000053226384 texte/version
+65cd974be7019ba82071630c7410446f1b329c4cf3b5c7c42fc8af3b913e649a  JORFTEXT000053508155 texte/struct  (loi n° 2026-103 du 19/02/2026, LF 2026)
+fd25904a24369cc358e7e4599aa7d18e218354f06a9d84e05aa56ba97e8f5243  JORFTEXT000053508155 texte/version
+3504b8910da3552b9c1000400d4ac5b410fe6d0514ca6cc3ddfaa743d8070d80  JORFTEXT000053227052 texte/struct  (décision n° 2025-899 DC)
+073e12f9c071d23f2486e0681d1d4312de58b09a86d524e94d643a1231354eee  JORFTEXT000053509638 texte/struct  (décision n° 2026-901 DC)
+#   sha256 de chaque article : champ sha256 de raw/jorf-lfss2026.json.gz et raw/jorf-lf2026.json.gz
+
+## Textes adoptés par l'Assemblée nationale (comparaison « JORF / texte adopté »)
+66f4a4194077dae044acf7dc8b0cb41fe0dac18911e3d30a30fca74736031e30  PRJLANR5L17BTA0199.raw  https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17BTA0199.raw  (T.A. n° 199 rect., LFSS 2026, texte définitif, 16/12/2025)
+45cf34cffffdd6c99d0979c85243bb474247b2ff49ff64d1f73c2913b2047ebd  l17t0199_texte-adopte-seance.pdf  https://www.assemblee-nationale.fr/dyn/17/textes/l17t0199_texte-adopte-seance.pdf
+4d919684661ca4e48be82be7c2b7af2fc9f9b681df8645b7b919a1b18ed780c4  PRJLANR5L17BTA0227.raw  https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17BTA0227.raw  (T.A. n° 227, LF 2026, texte définitif, 02/02/2026)
+5f2039c224e4d346318b557de1b7743118ef6d7a4d08dd13299027220e4373ac  PRJLANR5L17BTA0188.raw  https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17BTA0188.raw  (T.A. n° 188, LFSS 2026, nouvelle lecture, 09/12/2025)
+
+## Projet de loi de finances pour 2027 (vérifié : ne vise pas l'article 199 sexdecies)
+3d59bc73dd9aaefde9767940de3c484944dc7b1fa395fb429a4fded89f381a97  PRJLANR5L17B3210.raw  https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17B3210.raw  (PLF 2027 n° 3210, texte déposé ; téléchargé le 23/10/2026)
+
+## JO authentique (PDF) : non consulté (legifrance.gouv.fr refuse les robots). À comparer à la main.

@@ -1,0 +1,3359 @@
+{
+ "archives": {
+  "count": 551,
+  "first": "JORF_20251231-020917.tar.gz",
+  "last": "JORF_20261023-014741.tar.gz",
+  "bytes": 1533176029,
+  "list": [
+   {
+    "name": "JORF_20251231-020917.tar.gz",
+    "sha256": "d96fc1758b86262ccdf06eac1e9db81d62daaa006817170ac29d48a5618d6d8a",
+    "bytes": 717807,
+    "members": 2279
+   },
+   {
+    "name": "JORF_20251231-230401.tar.gz",
+    "sha256": "6bfd1f1071b8f36054dbf87b23829a1ecf9d9d4c2d13af8142eeac10640f8b50",
+    "bytes": 18767677,
+    "members": 40568
+   },
+   {
+    "name": "JORF_20260101-003004.tar.gz",
+    "sha256": "552052a97db4a88e684b9b1a342a40a94a67e12b9667cb8b06e96530ce419809",
+    "bytes": 274617,
+    "members": 1075
+   },
+   {
+    "name": "JORF_20260101-211537.tar.gz",
+    "sha256": "797c3af00390725ee613703045891105e267e03d3b0650932ed4d2e513102eca",
+    "bytes": 4823771,
+    "members": 8779
+   },
+   {
+    "name": "JORF_20260102-215048.tar.gz",
+    "sha256": "c661caab9cf2fb1dfdf95c0d4547da953dd7a74d22d61823fee4b55838076686",
+    "bytes": 8249861,
+    "members": 23643
+   },
+   {
+    "name": "JORF_20260103-002636.tar.gz",
+    "sha256": "ab39692fe3586dfa74b7ff19cca336e001a31a4aa232ec68969148d67355dbb1",
+    "bytes": 105379,
+    "members": 768
+   },
+   {
+    "name": "JORF_20260103-210526.tar.gz",
+    "sha256": "664f73f6275d7702ee67874a60f163df8bb887957b5bb407c25f67eb84963c35",
+    "bytes": 2249899,
+    "members": 4494
+   },
+   {
+    "name": "JORF_20260104-001832.tar.gz",
+    "sha256": "298f27b6073cfb808cc9b7fcc43d373b293c141e40a7fcc357b329105e07da43",
+    "bytes": 37725,
+    "members": 85
+   },
+   {
+    "name": "JORF_20260104-202823.tar.gz",
+    "sha256": "198cbdd2ff0c1eeab5614fec4c6117130193697df7ff393c77709641cd7e6798",
+    "bytes": 1264080,
+    "members": 1923
+   },
+   {
+    "name": "JORF_20260105-213447.tar.gz",
+    "sha256": "e41ed94906463bbc3296117e7ec59afd7b29669e9ab7e93e3584730af81030b9",
+    "bytes": 7168831,
+    "members": 19083
+   },
+   {
+    "name": "JORF_20260106-002003.tar.gz",
+    "sha256": "9218c2424c1081c066bd96e9fba204eaf94a83ed35fca17cfbea898e3a09a640",
+    "bytes": 72973,
+    "members": 292
+   },
+   {
+    "name": "JORF_20260106-222302.tar.gz",
+    "sha256": "9cec4b87c68480772d6ecaed2bf6aa09225f228e30ea362e62229da80ae4e06b",
+    "bytes": 9133021,
+    "members": 21793
+   },
+   {
+    "name": "JORF_20260107-002105.tar.gz",
+    "sha256": "bf95944b9c0fba86de37029a83d746bf726e5c6a119774080eb318b3ae522adf",
+    "bytes": 81577,
+    "members": 389
+   },
+   {
+    "name": "JORF_20260107-222303.tar.gz",
+    "sha256": "8ffaad9bdb91ad8a73a0af7cbea08f7bfec47362698e4763035f08984c59d9fd",
+    "bytes": 10095908,
+    "members": 18292
+   },
+   {
+    "name": "JORF_20260108-002301.tar.gz",
+    "sha256": "995d794743fc36e701d432f24726d2582c334c6e2fa487adfcee1892dff1f7c8",
+    "bytes": 127444,
+    "members": 554
+   },
+   {
+    "name": "JORF_20260108-220205.tar.gz",
+    "sha256": "055f39e15fa94019d993325b7a72c19936b26f22192e92bbe2e5c59d6146c624",
+    "bytes": 7129519,
+    "members": 13454
+   },
+   {
+    "name": "JORF_20260109-002240.tar.gz",
+    "sha256": "55239341335c09ac65491163c455c3153e990d3f71ed750088a56dac4d3e98a6",
+    "bytes": 111373,
+    "members": 579
+   },
+   {
+    "name": "JORF_20260109-215114.tar.gz",
+    "sha256": "a51d9f5024eecfcbcbf9756c6020fd36cc5682348b0933c1dbbbecc1bbedf802",
+    "bytes": 5092689,
+    "members": 10346
+   },
+   {
+    "name": "JORF_20260110-002312.tar.gz",
+    "sha256": "44541f6fa459548ab47b2fdec4fc363a370a85e95dffbef2fab44fa8c686829d",
+    "bytes": 100227,
+    "members": 410
+   },
+   {
+    "name": "JORF_20260110-211203.tar.gz",
+    "sha256": "44aba6991df37327c7641464ba8adc658d19fe3fdb0b44a6b8abccb9d13118cf",
+    "bytes": 3008346,
+    "members": 4310
+   },
+   {
+    "name": "JORF_20260111-002148.tar.gz",
+    "sha256": "f6cb27e301f061c33d5c8926b0ceecb716cd73ee395e8e252d3490f47c3e0679",
+    "bytes": 129887,
+    "members": 452
+   },
+   {
+    "name": "JORF_20260111-204923.tar.gz",
+    "sha256": "90370cfc0ec9850ede08e9575da6c240523c95ec23b59068e48c78b8bfe3307b",
+    "bytes": 2700722,
+    "members": 4048
+   },
+   {
+    "name": "JORF_20260112-212754.tar.gz",
+    "sha256": "62c782b8be8a7c00aa94a75fe69cf66d74b2c774dfc7dc76686620d234fc1ba4",
+    "bytes": 2540076,
+    "members": 4191
+   },
+   {
+    "name": "JORF_20260113-002251.tar.gz",
+    "sha256": "90c451fb073eea4bf487fd4f56ec056272fb40e767285d7b7dc9aabe9a1d005e",
+    "bytes": 88898,
+    "members": 412
+   },
+   {
+    "name": "JORF_20260113-211022.tar.gz",
+    "sha256": "1b6b22969648d9abccaaf31ca394c7892332c85d8f1b89267aa55727348e054d",
+    "bytes": 1761317,
+    "members": 3708
+   },
+   {
+    "name": "JORF_20260114-002331.tar.gz",
+    "sha256": "dc4fb7844a110f041596cbc7d068330c6487c82868d7a0124231cf60d3f179e6",
+    "bytes": 129936,
+    "members": 483
+   },
+   {
+    "name": "JORF_20260114-215319.tar.gz",
+    "sha256": "5e3c6209cfcb2bb0c379218c4ae8b903caa18c53fe7dda6320e10276e72536e4",
+    "bytes": 5301107,
+    "members": 9940
+   },
+   {
+    "name": "JORF_20260115-003058.tar.gz",
+    "sha256": "271a7e444ebdff9b300779c1d7dcff0bb2979d775ceb37862ff090f4570795a3",
+    "bytes": 200282,
+    "members": 1100
+   },
+   {
+    "name": "JORF_20260115-213622.tar.gz",
+    "sha256": "bdd1812232a5b5186a4b8fdca37023ed2999f37968f259015c474b82a3876913",
+    "bytes": 5017068,
+    "members": 10357
+   },
+   {
+    "name": "JORF_20260116-002550.tar.gz",
+    "sha256": "d3b9b6e8a14512d6d8f3d2a0b0b8c45d62e4ebc58fc8551728109ae928aa8e4f",
+    "bytes": 176884,
+    "members": 703
+   },
+   {
+    "name": "JORF_20260116-213855.tar.gz",
+    "sha256": "a7b9b6b453889a3d851b9710a8091f0bdfa6a6fe2c2ca3bc568e2d55c4e55825",
+    "bytes": 4674608,
+    "members": 6551
+   },
+   {
+    "name": "JORF_20260117-003012.tar.gz",
+    "sha256": "77a0885f044929d26690309fcf0274a184859e15d55a08b08afc394269a1ba07",
+    "bytes": 163926,
+    "members": 871
+   },
+   {
+    "name": "JORF_20260117-211336.tar.gz",
+    "sha256": "e50a21683ca09caab4a828340671ebae993d932f9097083fae882467d1a26eb2",
+    "bytes": 2907785,
+    "members": 4602
+   },
+   {
+    "name": "JORF_20260118-002047.tar.gz",
+    "sha256": "093135f34091d4da661a41719117641c415be4ffb006a31e9c8657bc10f974f9",
+    "bytes": 83031,
+    "members": 311
+   },
+   {
+    "name": "JORF_20260118-205025.tar.gz",
+    "sha256": "838dc471c871b3a0277589acd2ecc31b17e4a00805bc4ec76ef190dfb93d5755",
+    "bytes": 1731338,
+    "members": 2472
+   },
+   {
+    "name": "JORF_20260119-211610.tar.gz",
+    "sha256": "47a90a850e13d213f225ec90ceab14a9c633e2d44669492a891082678d17e256",
+    "bytes": 2999487,
+    "members": 6682
+   },
+   {
+    "name": "JORF_20260120-002330.tar.gz",
+    "sha256": "e179004cbc1737e2358a0b136fd011ac6c515eaee529e852a695672e411d80c0",
+    "bytes": 138516,
+    "members": 525
+   },
+   {
+    "name": "JORF_20260120-213113.tar.gz",
+    "sha256": "0bc5d00f1398f0a6a833bda19a05c259de7e3cd20bcd3daa6e516a7c1c45ecae",
+    "bytes": 3830187,
+    "members": 4536
+   },
+   {
+    "name": "JORF_20260121-002759.tar.gz",
+    "sha256": "7f320ee0d572860b4b8e82474f980aab9940de198eb6565e0f7e6f6fc9d8d66b",
+    "bytes": 178739,
+    "members": 720
+   },
+   {
+    "name": "JORF_20260121-220031.tar.gz",
+    "sha256": "a332d482d417fd57b646e7486386510429b5d8240bd38148de835f526c5894a0",
+    "bytes": 7398983,
+    "members": 14365
+   },
+   {
+    "name": "JORF_20260122-002620.tar.gz",
+    "sha256": "6391c0ac2668023b19669d756644b28ee33c98e7f679bf10ecca9652493cf36a",
+    "bytes": 124950,
+    "members": 632
+   },
+   {
+    "name": "JORF_20260122-211654.tar.gz",
+    "sha256": "f2c3c8ca2ef47b2a12da650265f87e954fe432fcf0fdfaafa3ce9588a28a1976",
+    "bytes": 2760075,
+    "members": 6002
+   },
+   {
+    "name": "JORF_20260123-002545.tar.gz",
+    "sha256": "8146a2fdbd3d1eba54ca29b7fe17b1156ed5d64c2348598215027833afd184db",
+    "bytes": 178884,
+    "members": 860
+   },
+   {
+    "name": "JORF_20260123-213816.tar.gz",
+    "sha256": "51f2854e0a607425983dbc41d01300436bf1c27b52e5e92d0b4e0cd4116c56c2",
+    "bytes": 6642062,
+    "members": 10418
+   },
+   {
+    "name": "JORF_20260124-002318.tar.gz",
+    "sha256": "299f57014ead2bd63b8356169b3ccd97eb54717e187e6ae53790ce30e49cdd56",
+    "bytes": 153211,
+    "members": 615
+   },
+   {
+    "name": "JORF_20260124-205802.tar.gz",
+    "sha256": "b1b15c2065095bef673c7740881ebd8499f004e998009a08250299cd643e4251",
+    "bytes": 2255789,
+    "members": 2792
+   },
+   {
+    "name": "JORF_20260125-002103.tar.gz",
+    "sha256": "641926ecfb91c679d8f35e693ae5b776b4120dd8c469f49c1ac4622ec9f0aa37",
+    "bytes": 71381,
+    "members": 359
+   },
+   {
+    "name": "JORF_20260125-205420.tar.gz",
+    "sha256": "fe3af40da0f7b8bf42dbb0bdbc6e6623dc4f197db8e879d64ab5f4c64b40bb35",
+    "bytes": 2157172,
+    "members": 4973
+   },
+   {
+    "name": "JORF_20260126-211407.tar.gz",
+    "sha256": "31ecd0aacd52d589c3c32e37484dfad6d67663c0fb059229f95298bd7e1299fb",
+    "bytes": 2320338,
+    "members": 5479
+   },
+   {
+    "name": "JORF_20260127-004658.tar.gz",
+    "sha256": "95aa42b34d667c170e1a0eb0b4255d93ab7552b32389a290e3dc76f26a6953c0",
+    "bytes": 143579,
+    "members": 677
+   },
+   {
+    "name": "JORF_20260127-212213.tar.gz",
+    "sha256": "2dcd866e7bb9e9a82cd90958a56ee750c480699306cb44175c2310ee597ef069",
+    "bytes": 3170952,
+    "members": 5929
+   },
+   {
+    "name": "JORF_20260128-002657.tar.gz",
+    "sha256": "829b3a4cd36a8a07d7dc0ce400c0279bf5058418034b0a31fcea89751c27a000",
+    "bytes": 177265,
+    "members": 638
+   },
+   {
+    "name": "JORF_20260128-213705.tar.gz",
+    "sha256": "b90c2191195fc16ddfe124f2b7347a4a5fd3af7eb0a3c4a9d295d743693347ac",
+    "bytes": 5078698,
+    "members": 9561
+   },
+   {
+    "name": "JORF_20260129-002644.tar.gz",
+    "sha256": "5ece3e7416fb615ac066c56f1cd65f136b0553c852f0b01d28a871e4a16e1a46",
+    "bytes": 205945,
+    "members": 814
+   },
+   {
+    "name": "JORF_20260129-214549.tar.gz",
+    "sha256": "31de54cec5cde39bfb905ea74c5280c9bfda8d31160d8568d4344f1895c91723",
+    "bytes": 6801947,
+    "members": 15769
+   },
+   {
+    "name": "JORF_20260130-002723.tar.gz",
+    "sha256": "fa3d131c05b1b6775c0b711f266f24513f392659b354df7f47b33c4e09e4c59d",
+    "bytes": 233989,
+    "members": 882
+   },
+   {
+    "name": "JORF_20260130-215723.tar.gz",
+    "sha256": "0930ab6745250a061e6786e5f48c06cb2c85c1cc6fbf4d5b1f27c10cc245d646",
+    "bytes": 7108643,
+    "members": 15801
+   },
+   {
+    "name": "JORF_20260131-002623.tar.gz",
+    "sha256": "d011e69d140f4210ee4a0f10a6a345616d926912da310e7d3c00f2c03142e852",
+    "bytes": 181351,
+    "members": 742
+   },
+   {
+    "name": "JORF_20260131-212734.tar.gz",
+    "sha256": "8c535c6bbd26a092c5e3581946b8fbdc29098115a1017807aa26050eb383cbe7",
+    "bytes": 5062483,
+    "members": 8626
+   },
+   {
+    "name": "JORF_20260201-002044.tar.gz",
+    "sha256": "9772d8122b72362d987cbda2db0d129aee4014367f681e115d60c0a1dbb50ab7",
+    "bytes": 86644,
+    "members": 392
+   },
+   {
+    "name": "JORF_20260201-204802.tar.gz",
+    "sha256": "54e8bf568c55cf07d1ae55fc9fd9d7ff1fbde959ab7261408504173b9efbb5d7",
+    "bytes": 2393699,
+    "members": 4607
+   },
+   {
+    "name": "JORF_20260202-213906.tar.gz",
+    "sha256": "a30c35cb79b5cd2aef49987e2a5248da0c37e24e50ec8bd5abe30a8980390d85",
+    "bytes": 4681268,
+    "members": 12360
+   },
+   {
+    "name": "JORF_20260203-002153.tar.gz",
+    "sha256": "e9ec318fc557886d82d7f081762b72dbb05bd106771ed1a6fa5dbeeb2dd49cf8",
+    "bytes": 111369,
+    "members": 544
+   },
+   {
+    "name": "JORF_20260203-212644.tar.gz",
+    "sha256": "5d1045e16d88472f5f9af714dd82c5ee73791bc8fee89a84155591ef92ed4087",
+    "bytes": 2618982,
+    "members": 4589
+   },
+   {
+    "name": "JORF_20260204-002930.tar.gz",
+    "sha256": "fb8100fba23432d118ff13deade3a9e0dd5a2762f5ddaf7e1e21c683b6f21fe5",
+    "bytes": 181027,
+    "members": 840
+   },
+   {
+    "name": "JORF_20260204-213125.tar.gz",
+    "sha256": "55700b986900838d2334841b11c62f3577bdbf0c9c87a26690fa247cb1553dea",
+    "bytes": 4729519,
+    "members": 11792
+   },
+   {
+    "name": "JORF_20260205-002414.tar.gz",
+    "sha256": "ec17ed78a313fd5be6250e8c94acddb3dd7fd0e95edd978e1ae074e88d2cf55a",
+    "bytes": 152712,
+    "members": 608
+   },
+   {
+    "name": "JORF_20260205-212615.tar.gz",
+    "sha256": "454c6b1c2576c1a2f93297ececfa89e7ba34e649bf45f818a3b1530c4bf89912",
+    "bytes": 4327617,
+    "members": 9207
+   },
+   {
+    "name": "JORF_20260206-002806.tar.gz",
+    "sha256": "0601d305e178e809c243bb08611e52d580d9be93862aaa260fcdf60df71306d0",
+    "bytes": 223634,
+    "members": 821
+   },
+   {
+    "name": "JORF_20260206-213731.tar.gz",
+    "sha256": "ed30d4c46c4efad6345712795b9fb9952c8e708b7ecf51a390b05b9bc4b3dfd9",
+    "bytes": 4915304,
+    "members": 6330
+   },
+   {
+    "name": "JORF_20260207-002631.tar.gz",
+    "sha256": "b8b5b954f27c865f609da76d4ab9eb2a0a5902452a89bd64d579585ac67eb4b4",
+    "bytes": 190812,
+    "members": 806
+   },
+   {
+    "name": "JORF_20260207-213045.tar.gz",
+    "sha256": "f3dc9701467c96f3264dc69beb61eb99d9641405ef81a6ba0ae0581b7d49008a",
+    "bytes": 3537042,
+    "members": 5212
+   },
+   {
+    "name": "JORF_20260208-002255.tar.gz",
+    "sha256": "370148b65008862151d3faa4b915534ca67dcb090ee4b02767ae1223c32669f6",
+    "bytes": 108001,
+    "members": 445
+   },
+   {
+    "name": "JORF_20260208-205817.tar.gz",
+    "sha256": "242f3a634f196d5ab1ae0ca54608bc9ec5cf106a3d22dbc9203128df43906c35",
+    "bytes": 2979011,
+    "members": 5533
+   },
+   {
+    "name": "JORF_20260209-211306.tar.gz",
+    "sha256": "98f6dd296ad0ab033700bd22d4f3b0f944bf5d7786e568f6afe5d210f97b631a",
+    "bytes": 3362331,
+    "members": 6512
+   },
+   {
+    "name": "JORF_20260210-014143.tar.gz",
+    "sha256": "8dfab9e35449e53b0656a1786eb191d8e06f1e002d2bacafc370a35d660f28d3",
+    "bytes": 140675,
+    "members": 368
+   },
+   {
+    "name": "JORF_20260210-211914.tar.gz",
+    "sha256": "88516b06699683b2ed21b29609bbe3f3fc7abea6f3be21b2ec942db0cf130fca",
+    "bytes": 2242874,
+    "members": 3868
+   },
+   {
+    "name": "JORF_20260211-003105.tar.gz",
+    "sha256": "ca24486adcedb287ff0dbf285a532a7637ee70b0d57f66e662a4188baf690388",
+    "bytes": 194988,
+    "members": 1055
+   },
+   {
+    "name": "JORF_20260211-213014.tar.gz",
+    "sha256": "971aa7f0acdcb9459746f3a97fe070d225c92b08454a3d26381e0269253a27c0",
+    "bytes": 3219446,
+    "members": 5737
+   },
+   {
+    "name": "JORF_20260212-002817.tar.gz",
+    "sha256": "96bdfa96bd010f70d4f7b771cca3e822530129bf8a88940854f10ff10fd66365",
+    "bytes": 325458,
+    "members": 1013
+   },
+   {
+    "name": "JORF_20260212-213618.tar.gz",
+    "sha256": "cde48c541b3f3727349cf48eb11d1e708d02652dd4bb23f0fe08959783514e54",
+    "bytes": 5241463,
+    "members": 9481
+   },
+   {
+    "name": "JORF_20260213-011130.tar.gz",
+    "sha256": "3aebb8513f2917267a435984b97183640e654826879ad1e6dd50d66b218d3612",
+    "bytes": 282046,
+    "members": 873
+   },
+   {
+    "name": "JORF_20260213-215711.tar.gz",
+    "sha256": "bf3fbbd12813d15120ede30e02d4d03f027c122332880894ca33896c695c049e",
+    "bytes": 6210299,
+    "members": 8851
+   },
+   {
+    "name": "JORF_20260214-002513.tar.gz",
+    "sha256": "01b11f11bd03b25e45b195349bef21125e15038e9384e62817b68b5bfbc2dafa",
+    "bytes": 171787,
+    "members": 684
+   },
+   {
+    "name": "JORF_20260214-212536.tar.gz",
+    "sha256": "d421138b1b07a19bbd75b28f674912cee97e67ace72bbd119208c6f82cc1b300",
+    "bytes": 3640280,
+    "members": 5378
+   },
+   {
+    "name": "JORF_20260215-002622.tar.gz",
+    "sha256": "289dc39791b1c5fafef22ac2ec07f0d0881d1d7403f1a3c9d13f3b4b22764cb6",
+    "bytes": 158649,
+    "members": 786
+   },
+   {
+    "name": "JORF_20260215-210455.tar.gz",
+    "sha256": "dcdb289bfa3cc6618a5c7a822be90034b50bee549de2606f026998f875e0ab54",
+    "bytes": 4161003,
+    "members": 8703
+   },
+   {
+    "name": "JORF_20260216-213927.tar.gz",
+    "sha256": "43e47158337813fb2e9668aafb5ff1b33c940ee9da9a1761cc770a06ef26a282",
+    "bytes": 7545015,
+    "members": 26627
+   },
+   {
+    "name": "JORF_20260217-002233.tar.gz",
+    "sha256": "bf65a830f4c5a0cbe5a392a270e4ebc8aef95afbe3d64d116835ebb619329ab7",
+    "bytes": 101408,
+    "members": 461
+   },
+   {
+    "name": "JORF_20260217-213718.tar.gz",
+    "sha256": "e5e08d3823bc955e4983f39bffa8a1485137db0e43a593d4e6b681fc943a3dac",
+    "bytes": 4247850,
+    "members": 10368
+   },
+   {
+    "name": "JORF_20260218-002747.tar.gz",
+    "sha256": "a1c6aff0d0bde3d0cb44e08905f7155a1fab35835734a9bbd6f80f602ddf9543",
+    "bytes": 259079,
+    "members": 854
+   },
+   {
+    "name": "JORF_20260218-215419.tar.gz",
+    "sha256": "41df7da03019bfa04f7c403663b8c81f240fefad6879202797a29de57a775e42",
+    "bytes": 4859900,
+    "members": 9060
+   },
+   {
+    "name": "JORF_20260219-002232.tar.gz",
+    "sha256": "e83ef17c749a81452eff47dc682a38e96ab47a0949ae8f968309cac6c1bb12d5",
+    "bytes": 110048,
+    "members": 452
+   },
+   {
+    "name": "JORF_20260219-212232.tar.gz",
+    "sha256": "2758b2c2409c96acc70cb0867e33cb9b80ac5883f60c3f50ed503078f20f0cb6",
+    "bytes": 3017398,
+    "members": 5242
+   },
+   {
+    "name": "JORF_20260220-015513.tar.gz",
+    "sha256": "91df4f307c5964b8bcd0aeae229849b9c8df12cf7fc2b5ed9766ca0087fe16c8",
+    "bytes": 483802,
+    "members": 1239
+   },
+   {
+    "name": "JORF_20260220-221620.tar.gz",
+    "sha256": "ef731980e5dfa03efd33256baf4bfc51e49e319aa52b0a37786a00b2601417f0",
+    "bytes": 10780920,
+    "members": 25736
+   },
+   {
+    "name": "JORF_20260221-002556.tar.gz",
+    "sha256": "45c8fa0b8c7db3df8e380dc8be77a4cda9c94d26a47df93778be2404cd94e8cd",
+    "bytes": 176835,
+    "members": 706
+   },
+   {
+    "name": "JORF_20260221-213634.tar.gz",
+    "sha256": "26b975ba856756ce0fc0025725787b58fb11b7db95ecbf767b3842b0952b1938",
+    "bytes": 5596579,
+    "members": 9118
+   },
+   {
+    "name": "JORF_20260222-002358.tar.gz",
+    "sha256": "f76499cfc89a4d2b0654d3170e314a315b4a11a9881891df85a5378a1bc2c0e4",
+    "bytes": 136316,
+    "members": 624
+   },
+   {
+    "name": "JORF_20260222-161537.tar.gz",
+    "sha256": "9bd182489e4328f74d060c97ab35f314376a263198c78b26a276c4983f9a747f",
+    "bytes": 2476,
+    "members": 7
+   },
+   {
+    "name": "JORF_20260222-204229.tar.gz",
+    "sha256": "931c9901becc66fa1de24eb90852dc6e9db19f13833edd88e170560afe6f30f5",
+    "bytes": 2386414,
+    "members": 3935
+   },
+   {
+    "name": "JORF_20260223-224003.tar.gz",
+    "sha256": "99b356d4ed6ff141958e3f6c053f734e897f2b82dee94f17deaa6527e006f572",
+    "bytes": 17329696,
+    "members": 42143
+   },
+   {
+    "name": "JORF_20260224-004048.tar.gz",
+    "sha256": "5febbc6f4d5a6616fe4fdb73a499b91881c2bac54b3964b16aa2a3d5b7d6c56c",
+    "bytes": 74864,
+    "members": 317
+   },
+   {
+    "name": "JORF_20260224-221302.tar.gz",
+    "sha256": "182ed75e86e24312b72cdb71031696bc61c1c66e17a5275e9d5fca62eda0eed9",
+    "bytes": 8923355,
+    "members": 25548
+   },
+   {
+    "name": "JORF_20260225-003052.tar.gz",
+    "sha256": "3aef459116c1e625cce004b07dc63dc57456bb6ee29f40dac34931411d44a573",
+    "bytes": 270410,
+    "members": 1180
+   },
+   {
+    "name": "JORF_20260225-222454.tar.gz",
+    "sha256": "aac50706b77da7e579e17cef9889d6f19e31f22b3505b1b84e9e10d125e9d76a",
+    "bytes": 9342719,
+    "members": 23643
+   },
+   {
+    "name": "JORF_20260226-002638.tar.gz",
+    "sha256": "231b9b5fb8d6e8b21c82e9735f42c8dc8278f0e46fa7e7e7625ef6690827838d",
+    "bytes": 174536,
+    "members": 828
+   },
+   {
+    "name": "JORF_20260226-220114.tar.gz",
+    "sha256": "1a8b7b5944dfb33f985d561f662c59eecad98ef6d3a1871153b681a594d922a1",
+    "bytes": 7069445,
+    "members": 11525
+   },
+   {
+    "name": "JORF_20260227-002915.tar.gz",
+    "sha256": "ce4876d3059870a2c05fd7b2da8abea1b1b7cebc75f6d19621507b66347856bd",
+    "bytes": 219225,
+    "members": 916
+   },
+   {
+    "name": "JORF_20260227-215222.tar.gz",
+    "sha256": "e571c300940d55016effde4a07b6bee3983586d1897d0f725eab15d68ecad1d4",
+    "bytes": 8371133,
+    "members": 14526
+   },
+   {
+    "name": "JORF_20260228-002732.tar.gz",
+    "sha256": "b1b2824dcf649f2544e6877883383b7542426b8144cb2dd96c0f1bbbdf5be080",
+    "bytes": 208996,
+    "members": 927
+   },
+   {
+    "name": "JORF_20260228-212019.tar.gz",
+    "sha256": "1a47382a626bcb2ccbd5865a06de9c70a45132a18290909588af2d081191ddd4",
+    "bytes": 5519065,
+    "members": 12061
+   },
+   {
+    "name": "JORF_20260301-002151.tar.gz",
+    "sha256": "3d0013eac7edc5a51ce759f1fcac30e17a2974ce4a517922715382ab6e2492a6",
+    "bytes": 100082,
+    "members": 407
+   },
+   {
+    "name": "JORF_20260301-133421.tar.gz",
+    "sha256": "65fd362b4e2bec377821e1bde8f2409c92a16966b60f8b7b67d256040a1923c3",
+    "bytes": 13291,
+    "members": 20
+   },
+   {
+    "name": "JORF_20260301-205101.tar.gz",
+    "sha256": "f763f73b8c38d28f5a5f346db20721a00876a3710313a52c7ec3347ff2179159",
+    "bytes": 1885267,
+    "members": 2855
+   },
+   {
+    "name": "JORF_20260302-213830.tar.gz",
+    "sha256": "b9d702cbf0faa2eeb274410641b307a7061270147779ee9ae427e3202b2e6684",
+    "bytes": 7406001,
+    "members": 16022
+   },
+   {
+    "name": "JORF_20260303-002214.tar.gz",
+    "sha256": "fdb1ef887966eba5a23f69e3e8a9148549cb1e6f0a3a2d141b68881a64e2837c",
+    "bytes": 76253,
+    "members": 432
+   },
+   {
+    "name": "JORF_20260303-213235.tar.gz",
+    "sha256": "85f9574a3b2dbbdcf3c25f007d79b49db2bb7f3f7c270ed796437fba2a6fd564",
+    "bytes": 3676958,
+    "members": 8417
+   },
+   {
+    "name": "JORF_20260304-002734.tar.gz",
+    "sha256": "cef136bcf6ec77b9fc34160e6fce335428df315cfa58ec593d91982f45c54003",
+    "bytes": 165258,
+    "members": 810
+   },
+   {
+    "name": "JORF_20260304-214724.tar.gz",
+    "sha256": "d74c7abfcc46ee8163f883c95aaa087dd43eacdfb614c78aabc01526beab58a0",
+    "bytes": 5936009,
+    "members": 9935
+   },
+   {
+    "name": "JORF_20260305-002630.tar.gz",
+    "sha256": "bce09aae5719e325b0a507c653b54588cce0e66bb3cc53c260749339b1ab9806",
+    "bytes": 219648,
+    "members": 891
+   },
+   {
+    "name": "JORF_20260305-214718.tar.gz",
+    "sha256": "a5fc7fa21dfe672d24352061a8c493f37228f261f6ad8ba520f48c7a9ecf5b18",
+    "bytes": 6080534,
+    "members": 12336
+   },
+   {
+    "name": "JORF_20260306-002724.tar.gz",
+    "sha256": "9f7e6ba1c5095731aa7f6191c2a3fd979e868d009bb4a1e4f98510de36780a2e",
+    "bytes": 152828,
+    "members": 784
+   },
+   {
+    "name": "JORF_20260306-214123.tar.gz",
+    "sha256": "c8053789e5ee0025a819489272d6ed66b77aa6ce392a47830cd9c7f285b1ee75",
+    "bytes": 5870553,
+    "members": 12038
+   },
+   {
+    "name": "JORF_20260307-002619.tar.gz",
+    "sha256": "a7c65ed8b7026b81cbf725b9a4525aa950f117621ee31a66b4084cbcd1841a3b",
+    "bytes": 143593,
+    "members": 775
+   },
+   {
+    "name": "JORF_20260307-212207.tar.gz",
+    "sha256": "49b8fe5e67947edd99e308e04787049256018e8fd86e4b9f9069d5a9e4a7b72d",
+    "bytes": 3601782,
+    "members": 4692
+   },
+   {
+    "name": "JORF_20260308-002323.tar.gz",
+    "sha256": "381f3be0627d45f33c1d5efea063cf2370f31a791f16e6105ae230007b409ea5",
+    "bytes": 93664,
+    "members": 564
+   },
+   {
+    "name": "JORF_20260308-204843.tar.gz",
+    "sha256": "97e7ac28037d57bf3e1ef92e5806ba5db495894beb8db35c1399034252dfae0d",
+    "bytes": 3281409,
+    "members": 6919
+   },
+   {
+    "name": "JORF_20260309-211112.tar.gz",
+    "sha256": "f121d9bf54fedcb0e24b54464f6951a4964073401b02194a62d70bcf6857fca0",
+    "bytes": 3695645,
+    "members": 7785
+   },
+   {
+    "name": "JORF_20260310-002235.tar.gz",
+    "sha256": "d0484e734cc89c15c839c60262869445646e0ab9175ccd02d4123222633e27b1",
+    "bytes": 120252,
+    "members": 485
+   },
+   {
+    "name": "JORF_20260310-213318.tar.gz",
+    "sha256": "3a8aa67e6a3cac5bb49834142822e42108a11e93953833fb2a0f5c3af6f57d39",
+    "bytes": 2428217,
+    "members": 3252
+   },
+   {
+    "name": "JORF_20260311-002739.tar.gz",
+    "sha256": "01737a6e321a3f82b19bb4cedb8ba8e50c3ef1d765e478460b18e56da74672e7",
+    "bytes": 179671,
+    "members": 861
+   },
+   {
+    "name": "JORF_20260311-215438.tar.gz",
+    "sha256": "87b440159d0d913c5bcebe25a842a636c3eb7ac996abd1c90dfdc73f48194744",
+    "bytes": 4865285,
+    "members": 6552
+   },
+   {
+    "name": "JORF_20260312-002858.tar.gz",
+    "sha256": "76b683fd5264dcd7b3db07f4511307a1d69a37fb50fb1d5c756661fd64ee7a9d",
+    "bytes": 262199,
+    "members": 1139
+   },
+   {
+    "name": "JORF_20260312-070417.tar.gz",
+    "sha256": "22b3f9e5a831ba143fdfa069c5ccddd5eac7893d0e988a4869fe7a6e371f09ea",
+    "bytes": 13086,
+    "members": 9
+   },
+   {
+    "name": "JORF_20260312-214147.tar.gz",
+    "sha256": "534b28b42218e0ee8e44f44b48b36aaaf2086d7ffc4c464536991490c99ed803",
+    "bytes": 6922965,
+    "members": 11079
+   },
+   {
+    "name": "JORF_20260313-002542.tar.gz",
+    "sha256": "5b073b88b1f8594fb2a00460d4e808d308caa6db74c6da17370242f99caec4e9",
+    "bytes": 181879,
+    "members": 598
+   },
+   {
+    "name": "JORF_20260313-214659.tar.gz",
+    "sha256": "3a3cf4ad091380b805081cc7c52bc2e51444ec66161cfb00b38ef66e1cbb6d4e",
+    "bytes": 4247699,
+    "members": 5721
+   },
+   {
+    "name": "JORF_20260314-002319.tar.gz",
+    "sha256": "90b43b400c548676117c07ce24a6c7a4f4700a5aeb319e7d714fe6f863e93802",
+    "bytes": 116934,
+    "members": 546
+   },
+   {
+    "name": "JORF_20260314-212106.tar.gz",
+    "sha256": "3dc9dbcc0b194883454d5ff5011f09bb3f48e254f15ad76b43354b8b973e3b78",
+    "bytes": 3287977,
+    "members": 5375
+   },
+   {
+    "name": "JORF_20260315-002221.tar.gz",
+    "sha256": "40287d5fcc6b06f2c50d1072c9f800fefbf133989c8cdce292591863913eda87",
+    "bytes": 97143,
+    "members": 497
+   },
+   {
+    "name": "JORF_20260315-211140.tar.gz",
+    "sha256": "d8bb56da214f454b35d8e9a11b8fc789ac4e97690aa06ca897a07b20bb3d36b2",
+    "bytes": 2445082,
+    "members": 5535
+   },
+   {
+    "name": "JORF_20260316-213019.tar.gz",
+    "sha256": "ba9bb52f0b952ca4d9d8324540777357d6bb5eef8aac92d136c892da36ac651a",
+    "bytes": 5006194,
+    "members": 10551
+   },
+   {
+    "name": "JORF_20260317-002052.tar.gz",
+    "sha256": "1df4b15b92018118bd097f3f7de6718d41345fbc9334418b5c73a334139db5e0",
+    "bytes": 84033,
+    "members": 355
+   },
+   {
+    "name": "JORF_20260317-212200.tar.gz",
+    "sha256": "bce0148f49600d257ce884ef3ecf01b6db8dc78b532557f24c10897f1dc0cb92",
+    "bytes": 3019644,
+    "members": 4011
+   },
+   {
+    "name": "JORF_20260318-002356.tar.gz",
+    "sha256": "a0abdbb617f784851499def5c217269bc47ef0b9bad3608a78e44ccf2dad2b60",
+    "bytes": 117765,
+    "members": 592
+   },
+   {
+    "name": "JORF_20260318-213412.tar.gz",
+    "sha256": "3f105ec5a01d9bbb6a084c500b38245a271c9b0fa41ef0c0ffbdc2066b579f3a",
+    "bytes": 3264594,
+    "members": 6278
+   },
+   {
+    "name": "JORF_20260319-002651.tar.gz",
+    "sha256": "b17b7fb7998c41910c77fdf6a7ef9694d60f5a92f9da1b38a1e40cb5fb4cd02d",
+    "bytes": 143510,
+    "members": 735
+   },
+   {
+    "name": "JORF_20260319-213022.tar.gz",
+    "sha256": "0c427c60e5f3c98455ffb3afa62bc7c4be557b32bc02a40376380e84422b2a76",
+    "bytes": 5100139,
+    "members": 13721
+   },
+   {
+    "name": "JORF_20260320-002544.tar.gz",
+    "sha256": "2246fe7440a8bdb4c950522323f6e07621c454c5b923b5c96b31663d5ea85355",
+    "bytes": 177624,
+    "members": 620
+   },
+   {
+    "name": "JORF_20260320-213900.tar.gz",
+    "sha256": "d9e03cf6a71274ede1e8cb5eb258b9b70bfad4ce90a036793fa24aa8dbebd5a2",
+    "bytes": 4944643,
+    "members": 7552
+   },
+   {
+    "name": "JORF_20260321-002240.tar.gz",
+    "sha256": "7c40f799f41cbefaa066ee1461649a6015b84cfae978031eb102025484afa522",
+    "bytes": 121546,
+    "members": 376
+   },
+   {
+    "name": "JORF_20260321-211750.tar.gz",
+    "sha256": "fa728db5d615193153da0baad5d61813a4dea661b0226e10ea41586d37978f5b",
+    "bytes": 3172178,
+    "members": 5041
+   },
+   {
+    "name": "JORF_20260322-002222.tar.gz",
+    "sha256": "baa2c05db120c2c1387d2abaf4059d712cf87d068af7f2905f0cc123dd4214fd",
+    "bytes": 114469,
+    "members": 470
+   },
+   {
+    "name": "JORF_20260322-210426.tar.gz",
+    "sha256": "7bbadaeff2b3d5faff5c3ad438d776390b7790fbaf5930b97499004094eb33df",
+    "bytes": 2858944,
+    "members": 4646
+   },
+   {
+    "name": "JORF_20260323-211443.tar.gz",
+    "sha256": "f01f57d7ecee07ab7d53aae2ec687236ef95fb86fd80f3241ade277aaf0843ea",
+    "bytes": 4672446,
+    "members": 10547
+   },
+   {
+    "name": "JORF_20260324-002443.tar.gz",
+    "sha256": "8f854b87ead8b13797b336bd6253529641f603180784d7f26834fab030508a48",
+    "bytes": 111059,
+    "members": 644
+   },
+   {
+    "name": "JORF_20260324-211026.tar.gz",
+    "sha256": "d7d6a313e686a8b6248d34580eb6bebb8829198ecd197c1ae4905cdc0141efb9",
+    "bytes": 2710408,
+    "members": 4727
+   },
+   {
+    "name": "JORF_20260325-002426.tar.gz",
+    "sha256": "6b9b010420b81b346c5bc24905836496a8ffff768e554abe692488378eaf4571",
+    "bytes": 121311,
+    "members": 507
+   },
+   {
+    "name": "JORF_20260325-214514.tar.gz",
+    "sha256": "74138352b0e13a835a958b33b842d3871a904197854cc8b9e1835b39254d2e6e",
+    "bytes": 5030933,
+    "members": 9684
+   },
+   {
+    "name": "JORF_20260326-002828.tar.gz",
+    "sha256": "cd895bcb6f08ec046fcbef32cea8a29bad438cc8be20496511e51ecd0643ca61",
+    "bytes": 471994,
+    "members": 1078
+   },
+   {
+    "name": "JORF_20260326-221059.tar.gz",
+    "sha256": "6f4fcd8ec7b577ad75d9f205d0be9497fa850c9a01a6220d1a08a0e0efac3a39",
+    "bytes": 8143787,
+    "members": 16135
+   },
+   {
+    "name": "JORF_20260327-002618.tar.gz",
+    "sha256": "9751d63aa33ad3eebbf03ed39edfc05a861f31677de8aae36bfc56e62cfcc924",
+    "bytes": 222714,
+    "members": 907
+   },
+   {
+    "name": "JORF_20260327-214904.tar.gz",
+    "sha256": "5c1f8ef64bd09f49692bf3066e5e436cd705d8ccd609ccf2d25f53123e86da62",
+    "bytes": 5140009,
+    "members": 9776
+   },
+   {
+    "name": "JORF_20260328-002236.tar.gz",
+    "sha256": "27fc30257699398ede630d378ad337b462d4f85330853cd388e3cf26c1a7da25",
+    "bytes": 120175,
+    "members": 457
+   },
+   {
+    "name": "JORF_20260328-211035.tar.gz",
+    "sha256": "01ccd41b7a62a23856b2d64a4722bccd895f1e6748aa174e833644ce8795758e",
+    "bytes": 2431333,
+    "members": 4954
+   },
+   {
+    "name": "JORF_20260329-002233.tar.gz",
+    "sha256": "f5eaff4f8ac7a2aacf2b5b091eb67a44ae5df51debba1da3fd120909a5ecd0a6",
+    "bytes": 113355,
+    "members": 452
+   },
+   {
+    "name": "JORF_20260329-205537.tar.gz",
+    "sha256": "72c75715fd47f6c22fafd639012883ff6958b38d8671165c804158cdef6b2fa6",
+    "bytes": 3158892,
+    "members": 5825
+   },
+   {
+    "name": "JORF_20260330-213449.tar.gz",
+    "sha256": "420af718a668f810fc4987eb57adbd5754eadeb9f1cdbd09c9cc4373b0713b07",
+    "bytes": 5186915,
+    "members": 11160
+   },
+   {
+    "name": "JORF_20260331-014630.tar.gz",
+    "sha256": "b409037259d511a7b14acb61aef7af3989a6f2308dcff6224416c5ef4d15f11c",
+    "bytes": 283786,
+    "members": 895
+   },
+   {
+    "name": "JORF_20260331-215650.tar.gz",
+    "sha256": "292786aef7854719c9e17fe07fffedb2c388663dc24868429c6f9e4ad110a5dc",
+    "bytes": 5667662,
+    "members": 9468
+   },
+   {
+    "name": "JORF_20260401-002543.tar.gz",
+    "sha256": "570b2861e514cc2a6668f3296378b28329cdae8ce9ad1cd5f3a79662d7ba8f27",
+    "bytes": 156090,
+    "members": 811
+   },
+   {
+    "name": "JORF_20260401-215458.tar.gz",
+    "sha256": "5e2bc6df86a0c2ee9fe2819298809f08a81667e155c303be1814389341b9a75b",
+    "bytes": 6179463,
+    "members": 12309
+   },
+   {
+    "name": "JORF_20260402-002730.tar.gz",
+    "sha256": "c8cc61c2cf49c617d4cb9bd8067f007217e578d190934dbf54846617dc9f1f62",
+    "bytes": 296416,
+    "members": 938
+   },
+   {
+    "name": "JORF_20260402-215758.tar.gz",
+    "sha256": "e9639a940f1e4d8b72181d4bebcaec542c1bd53ea222cfb1bcf9fb15ab8a8346",
+    "bytes": 5433349,
+    "members": 10969
+   },
+   {
+    "name": "JORF_20260403-002705.tar.gz",
+    "sha256": "a82c104561b09767ee591a5de780d724b847128f11f9fd68cb35a40b9fd87b25",
+    "bytes": 214002,
+    "members": 949
+   },
+   {
+    "name": "JORF_20260403-221345.tar.gz",
+    "sha256": "4d8bc763205bb49bb910b349ffd7d079bd4c1dbba67014140239dc2818f960d8",
+    "bytes": 5785096,
+    "members": 12126
+   },
+   {
+    "name": "JORF_20260404-002817.tar.gz",
+    "sha256": "07a45cf136c956230bc4e159dfde9439fe03aacb8a17ed13d8a2b40761d1255a",
+    "bytes": 264550,
+    "members": 1122
+   },
+   {
+    "name": "JORF_20260404-213031.tar.gz",
+    "sha256": "3c9a91f867af6757b2a36573390375e7fb9ebdb5ae88ed360cd2ccca76daf077",
+    "bytes": 3406101,
+    "members": 6499
+   },
+   {
+    "name": "JORF_20260405-002214.tar.gz",
+    "sha256": "9e98511adf1c66d433413d727fdbd6ef95240d60122f8f8f56b5cd8fbf4725a0",
+    "bytes": 88524,
+    "members": 562
+   },
+   {
+    "name": "JORF_20260405-205014.tar.gz",
+    "sha256": "0d48e765ccb51b91a04bba0450794e5f6a8699b6ea54bf2e755f7297fd5dfb2d",
+    "bytes": 2583106,
+    "members": 4254
+   },
+   {
+    "name": "JORF_20260407-213340.tar.gz",
+    "sha256": "91256c81d2d3b9a300316c81111dddc126ed6b3e1cc30ef8aacbf956304b9679",
+    "bytes": 2998055,
+    "members": 7173
+   },
+   {
+    "name": "JORF_20260408-002323.tar.gz",
+    "sha256": "b44dd8750ffef0343a1739a2ce8e59fd7afa9c652061e05f756e020187fdd098",
+    "bytes": 106263,
+    "members": 523
+   },
+   {
+    "name": "JORF_20260408-214134.tar.gz",
+    "sha256": "8484fd3a6ea748df3823a71b9e1c99f2d4e29c1a6fb315bb925f25a8458938cf",
+    "bytes": 4198271,
+    "members": 8604
+   },
+   {
+    "name": "JORF_20260409-002748.tar.gz",
+    "sha256": "191302c55115c9fcdb91c994d819c3175c8e37b6b7d43d97eb32ab30d25ea66a",
+    "bytes": 237266,
+    "members": 952
+   },
+   {
+    "name": "JORF_20260409-215606.tar.gz",
+    "sha256": "a1ab5578ef8393db5c49d5d610a80bb0840d443fc0e06fabafec25f7513d35b1",
+    "bytes": 8964419,
+    "members": 16780
+   },
+   {
+    "name": "JORF_20260410-002634.tar.gz",
+    "sha256": "21f37d88f99a1076fe3355321be7911a25b5e270e1a3e3dfcd6a6e12c1861c23",
+    "bytes": 181597,
+    "members": 956
+   },
+   {
+    "name": "JORF_20260410-214608.tar.gz",
+    "sha256": "17f7217a42de5495a20089481e64aee0b74248252d22dddedf34b19722ccac3c",
+    "bytes": 4546736,
+    "members": 8974
+   },
+   {
+    "name": "JORF_20260411-003912.tar.gz",
+    "sha256": "d09e9043819b4de4ed028d9e8dae773998c558473c883ca957918b33d7af27a7",
+    "bytes": 679825,
+    "members": 4840
+   },
+   {
+    "name": "JORF_20260411-220252.tar.gz",
+    "sha256": "f0bb61c743f2c39e4ed766ebc977ed1cd32c7506918f4c64583b052a4cc317dd",
+    "bytes": 8597028,
+    "members": 22695
+   },
+   {
+    "name": "JORF_20260412-002720.tar.gz",
+    "sha256": "913c0e84e972c559659ce8b006ea1a1bc4b6134f4dbff59d09b7e83be7ff6fe2",
+    "bytes": 275195,
+    "members": 1002
+   },
+   {
+    "name": "JORF_20260412-210058.tar.gz",
+    "sha256": "fa1787d69ce0d044dc8d8c285c94a0433c1567277a92105c542059f915e39289",
+    "bytes": 3570686,
+    "members": 8554
+   },
+   {
+    "name": "JORF_20260413-220055.tar.gz",
+    "sha256": "63e674151ded39a787b950914bc4e3743da6c21ed9df849fefa1208421683989",
+    "bytes": 11314090,
+    "members": 29271
+   },
+   {
+    "name": "JORF_20260414-002228.tar.gz",
+    "sha256": "91527b166c30c5dfe051e9d980799b57eba246263242e86a03d04588a26a68d8",
+    "bytes": 120697,
+    "members": 486
+   },
+   {
+    "name": "JORF_20260414-215312.tar.gz",
+    "sha256": "ebe118b1a711867269e1f64ae7d52c570db24e2ff9c80275aa35fd8c9615aa9d",
+    "bytes": 9245147,
+    "members": 24815
+   },
+   {
+    "name": "JORF_20260415-002538.tar.gz",
+    "sha256": "e4f45b8a7a71a8f95d3349c47f278d7f66a0c61ac55ed8b8de118318b2b0e018",
+    "bytes": 182169,
+    "members": 746
+   },
+   {
+    "name": "JORF_20260415-215728.tar.gz",
+    "sha256": "6f25b20c434050da673e2edde13675026a58e940ba5b99c19fb6eb41958b10f2",
+    "bytes": 6137195,
+    "members": 11444
+   },
+   {
+    "name": "JORF_20260416-002538.tar.gz",
+    "sha256": "e2c132d7798f43c9dda1ac40c866989aeff2b06a794b272d525942614ffeb2e4",
+    "bytes": 222508,
+    "members": 740
+   },
+   {
+    "name": "JORF_20260416-214438.tar.gz",
+    "sha256": "29dbedbf1cec3803e2d2e9509c66a452140fadde19d41ee5aef707ff972d761f",
+    "bytes": 5608494,
+    "members": 9511
+   },
+   {
+    "name": "JORF_20260417-002714.tar.gz",
+    "sha256": "99688e7c0b3800346d719fb150a60787c99b4906777700009ffac7387a55b328",
+    "bytes": 179176,
+    "members": 757
+   },
+   {
+    "name": "JORF_20260417-211846.tar.gz",
+    "sha256": "71f7412aca46989d2be7fdb59b4471834241add5de0665bc9f718d24cc792c92",
+    "bytes": 5670306,
+    "members": 11807
+   },
+   {
+    "name": "JORF_20260418-002422.tar.gz",
+    "sha256": "1d997c05aa3aa0ced575aa3d325f8909acb1af7fae392fcacd0423d1b0437acc",
+    "bytes": 162248,
+    "members": 571
+   },
+   {
+    "name": "JORF_20260418-210500.tar.gz",
+    "sha256": "d05ada63b57083411241b53ce873464b458f9e656636d7815107b5644ead5cb7",
+    "bytes": 3304295,
+    "members": 8089
+   },
+   {
+    "name": "JORF_20260419-002209.tar.gz",
+    "sha256": "f667076accd4a4053a3163dbcacfeaf3f81b440c1c3278dd45e7f2c8cbd40bc4",
+    "bytes": 85968,
+    "members": 383
+   },
+   {
+    "name": "JORF_20260419-210937.tar.gz",
+    "sha256": "676d257dc50fab6bf3c7e6b6b751574e73a973ebf47f5456f7f2c33190cb6153",
+    "bytes": 2991459,
+    "members": 4625
+   },
+   {
+    "name": "JORF_20260420-214116.tar.gz",
+    "sha256": "e6be9d7e462c5a0b7b5d33caaae99c8585ab1ce4540377a0fb6cf8ac852b3569",
+    "bytes": 4888204,
+    "members": 8936
+   },
+   {
+    "name": "JORF_20260421-002027.tar.gz",
+    "sha256": "92f2dd5d2f1ddf5bc98fe64f4db3d080bb3818fe66e20187a6e47d6e3b6e9923",
+    "bytes": 75120,
+    "members": 232
+   },
+   {
+    "name": "JORF_20260421-212406.tar.gz",
+    "sha256": "334fcbc944008ea2942b65051476f2368128e7f6a979df3b168b00e03253c734",
+    "bytes": 3582774,
+    "members": 6892
+   },
+   {
+    "name": "JORF_20260422-002904.tar.gz",
+    "sha256": "f62200b8f32ec726c5b9f4329e1db02e1c41159e91b9d9b1cf0220c78e592eac",
+    "bytes": 186229,
+    "members": 864
+   },
+   {
+    "name": "JORF_20260422-214145.tar.gz",
+    "sha256": "fc431fc132d6de0ec3db094b1150dec46310716a4e367766ec1c59f44fc0be56",
+    "bytes": 6252870,
+    "members": 14819
+   },
+   {
+    "name": "JORF_20260423-004647.tar.gz",
+    "sha256": "0d29a657087a9ee91bb9556a3937c0afd8dd907c7b6bbc517ba1f80faf7cf4ac",
+    "bytes": 237989,
+    "members": 723
+   },
+   {
+    "name": "JORF_20260423-213844.tar.gz",
+    "sha256": "4c05adf303a939b22c1c7d86d333beddf10c5a751817cd8cb8ea94ed33ddfa5e",
+    "bytes": 5506997,
+    "members": 12477
+   },
+   {
+    "name": "JORF_20260424-002759.tar.gz",
+    "sha256": "736a61af1de747ba5eaa955eb19f5cee26f5f7cf3e2854d2e05b7764b91a69a2",
+    "bytes": 202883,
+    "members": 918
+   },
+   {
+    "name": "JORF_20260424-215737.tar.gz",
+    "sha256": "e39b6f4012d7ebd44abf04d7ed70af24fc15c91b0628f132dee83ab7c85a8087",
+    "bytes": 5249610,
+    "members": 11632
+   },
+   {
+    "name": "JORF_20260425-010120.tar.gz",
+    "sha256": "b49c9040f058f122fcddf53143b7fe236b51c26f1af766622179ddc3aee9b157",
+    "bytes": 316454,
+    "members": 791
+   },
+   {
+    "name": "JORF_20260425-212738.tar.gz",
+    "sha256": "4062807b42b2bd3f833ee2793a07b4d45af59c4f56f432ac06436d4d308d3fcb",
+    "bytes": 4015672,
+    "members": 7176
+   },
+   {
+    "name": "JORF_20260426-002214.tar.gz",
+    "sha256": "bdc371102ab5432508f121e23e10666e0f1344ff67d3629045edbd9f0bff01b9",
+    "bytes": 87280,
+    "members": 413
+   },
+   {
+    "name": "JORF_20260426-205404.tar.gz",
+    "sha256": "dcb80db01050bc90017b1c241c28cadb14ee6b1cdf5dcb37ab6074279df97e8b",
+    "bytes": 2623766,
+    "members": 3720
+   },
+   {
+    "name": "JORF_20260427-212938.tar.gz",
+    "sha256": "ce45c20a61bab07c298f2d0aee94a55e6e5cb532b11579204fcc4333b9819568",
+    "bytes": 5295733,
+    "members": 11631
+   },
+   {
+    "name": "JORF_20260428-002434.tar.gz",
+    "sha256": "2aae089cc5f8657bfc44331871b2ce291a01e42936cc82c2c14a28e11e6089c6",
+    "bytes": 208888,
+    "members": 544
+   },
+   {
+    "name": "JORF_20260428-213918.tar.gz",
+    "sha256": "e9c5d20a5805c351b8a78fd54f819a53f5e8f4b0a83d979c05e50a3bbcc81dc1",
+    "bytes": 3968781,
+    "members": 6694
+   },
+   {
+    "name": "JORF_20260429-003135.tar.gz",
+    "sha256": "8002bb06281dde976bd5d36191da5caa0f8f6bae41c6e08d88e16e7536891775",
+    "bytes": 296910,
+    "members": 1147
+   },
+   {
+    "name": "JORF_20260429-214715.tar.gz",
+    "sha256": "4bf9c286486e26e189ad2c0c7ba75ce378fb67841a7cdb2d80b772a5a89a037a",
+    "bytes": 6064423,
+    "members": 11039
+   },
+   {
+    "name": "JORF_20260430-003033.tar.gz",
+    "sha256": "a3a186b199781baad73c597593343f45cf44f649624eba3653ba8198e304b643",
+    "bytes": 315034,
+    "members": 1083
+   },
+   {
+    "name": "JORF_20260430-220503.tar.gz",
+    "sha256": "b64d3a028c32e53e2fd087c48ca71cee95d435437dc14ca54d00417915c1dd55",
+    "bytes": 8508801,
+    "members": 18223
+   },
+   {
+    "name": "JORF_20260502-002359.tar.gz",
+    "sha256": "fdb92d475f1b29bbce466cc90f96a9fe68c8034a4480985761e58da7e5880781",
+    "bytes": 172817,
+    "members": 619
+   },
+   {
+    "name": "JORF_20260502-212309.tar.gz",
+    "sha256": "d695758ff5d630e2fa5a6738d1524cb15142591787d416d02b5e1d5147e4e74e",
+    "bytes": 4330233,
+    "members": 6990
+   },
+   {
+    "name": "JORF_20260503-002124.tar.gz",
+    "sha256": "c65e5f3325872a563bac9a8ce399b8723a0dc7bb99a35379cdd7340de5c55a2e",
+    "bytes": 66042,
+    "members": 304
+   },
+   {
+    "name": "JORF_20260503-204824.tar.gz",
+    "sha256": "5bdb23fe75fa12bbaf9b522b8945e0d11334f11b916a04370ddc5071169a65dc",
+    "bytes": 1614711,
+    "members": 2340
+   },
+   {
+    "name": "JORF_20260504-212959.tar.gz",
+    "sha256": "9200ed9680f5a3b85820104f93bdf8f2f54c32eb6b27ccae049098e264fcf859",
+    "bytes": 2813285,
+    "members": 5815
+   },
+   {
+    "name": "JORF_20260505-002507.tar.gz",
+    "sha256": "2c0dade80cd095f28ab384112148ea5edf2de91bf233a7c219164c688851bbb1",
+    "bytes": 151859,
+    "members": 480
+   },
+   {
+    "name": "JORF_20260505-215314.tar.gz",
+    "sha256": "7d6857d354fba380d4da51fd16912361bea1ab75ea47aa38b6dcd420bd258fad",
+    "bytes": 6808149,
+    "members": 15530
+   },
+   {
+    "name": "JORF_20260506-002218.tar.gz",
+    "sha256": "868248138454db7a18a0155ec17131f56aefeae732de370f6b5a29e5309fde87",
+    "bytes": 167585,
+    "members": 437
+   },
+   {
+    "name": "JORF_20260506-212453.tar.gz",
+    "sha256": "8c448c7c10ef63e019b9dfa7e4b00138c496801cff1a6096b49e612daffa53e9",
+    "bytes": 3278381,
+    "members": 3802
+   },
+   {
+    "name": "JORF_20260507-012523.tar.gz",
+    "sha256": "8ffe5d5f12dd2ace32e32f8bea391dc9ca85d4d07310f511dbad0691e5b0c489",
+    "bytes": 171137,
+    "members": 754
+   },
+   {
+    "name": "JORF_20260507-213433.tar.gz",
+    "sha256": "9dd96c9ad614b658af7c6d19244849330dea3882633cc4292b959ad598e41729",
+    "bytes": 5146743,
+    "members": 16896
+   },
+   {
+    "name": "JORF_20260508-012836.tar.gz",
+    "sha256": "edf50abb26cee761b642ec099d7ea46094210a73e5d018ae89ef18bd782f8eda",
+    "bytes": 258290,
+    "members": 1034
+   },
+   {
+    "name": "JORF_20260508-213543.tar.gz",
+    "sha256": "2d057fb550225ca7d7feeeec5650e57b6bff9ef4d788ae7fc892b62fbf4ab6f2",
+    "bytes": 6098989,
+    "members": 9876
+   },
+   {
+    "name": "JORF_20260510-011828.tar.gz",
+    "sha256": "0f45ff4cc9ea74288def51961f1254dd540130f5cbaa9c5ac40bdf734eb12440",
+    "bytes": 331705,
+    "members": 1093
+   },
+   {
+    "name": "JORF_20260510-213758.tar.gz",
+    "sha256": "0aef76c2832771e68cc66a4a4392ad7b039c5b2e89129feb732b52163e4646e6",
+    "bytes": 5223762,
+    "members": 11404
+   },
+   {
+    "name": "JORF_20260511-011551.tar.gz",
+    "sha256": "d08f79f7acf8b9eaf25b812e804a7094161283f8385958af26e97093dd60cc5f",
+    "bytes": 4720,
+    "members": 19
+   },
+   {
+    "name": "JORF_20260511-123922.tar.gz",
+    "sha256": "99b8f275d6a36daaee286f40e34d3db4fd7b512f430806f3411383bb0f69e99a",
+    "bytes": 22354,
+    "members": 73
+   },
+   {
+    "name": "JORF_20260511-222130.tar.gz",
+    "sha256": "56f55cec8b07e3cf7f627eb72ac7567d2bbf283a6ece81321d8d0a897e0c3519",
+    "bytes": 8635892,
+    "members": 18366
+   },
+   {
+    "name": "JORF_20260512-001930.tar.gz",
+    "sha256": "4bd1b55e51586e4fa654b3529e6866e0e19db9a6a30720c08b0de407c1c91db8",
+    "bytes": 80297,
+    "members": 311
+   },
+   {
+    "name": "JORF_20260512-214003.tar.gz",
+    "sha256": "65d726d8b10c70857600c5ddd08a3fee56569283b747339f7a341f26e477c107",
+    "bytes": 5581377,
+    "members": 11621
+   },
+   {
+    "name": "JORF_20260513-003231.tar.gz",
+    "sha256": "06d3b11e335eefdf9a697cec78a7ff1751a77f00aa0f1b0d736c0f63d92eccb4",
+    "bytes": 348707,
+    "members": 2315
+   },
+   {
+    "name": "JORF_20260513-221833.tar.gz",
+    "sha256": "e91c3a84505e2d08a9ed483197f305f8e07d9c6291a3679d7538c80bc7fc0bb7",
+    "bytes": 8561197,
+    "members": 17634
+   },
+   {
+    "name": "JORF_20260514-002616.tar.gz",
+    "sha256": "86fe9ad031f3ad33261d205e0e5df26c64848ea416be1c51e7b44a7a592896aa",
+    "bytes": 229706,
+    "members": 798
+   },
+   {
+    "name": "JORF_20260514-212031.tar.gz",
+    "sha256": "4d0418f773a0611f6b20531c4e8a82a60d90628e432d8ef533d0841c27c70c66",
+    "bytes": 4443826,
+    "members": 6864
+   },
+   {
+    "name": "JORF_20260515-205921.tar.gz",
+    "sha256": "240603324d8e23f38771b0aa6402295bd84abddd59a704ed0a8e9b492d0bcc00",
+    "bytes": 2627390,
+    "members": 4314
+   },
+   {
+    "name": "JORF_20260516-002606.tar.gz",
+    "sha256": "602ceaf038966b8f88acac454a4a7e3baaca0801b8caf6d454f38c301d453b05",
+    "bytes": 199515,
+    "members": 800
+   },
+   {
+    "name": "JORF_20260516-211905.tar.gz",
+    "sha256": "aa635ece78fb9862df01d42dfa850a02a99a61d17759281171ed6e755fe772a1",
+    "bytes": 3960166,
+    "members": 6233
+   },
+   {
+    "name": "JORF_20260517-002157.tar.gz",
+    "sha256": "70acd8df721d963c63eb92ea0e3e1c9ff0d2678152d8e007225d7398cf494185",
+    "bytes": 80540,
+    "members": 380
+   },
+   {
+    "name": "JORF_20260517-204556.tar.gz",
+    "sha256": "996dbd95bd25e8da8accff3ef6707e044066a9ca7b4854ee50c826b22f553178",
+    "bytes": 2567770,
+    "members": 3775
+   },
+   {
+    "name": "JORF_20260518-211450.tar.gz",
+    "sha256": "5108fa360a775b3b70d8cbf54b4f469dec214b24cfb3fa9db321ac1436fadcae",
+    "bytes": 3146951,
+    "members": 5609
+   },
+   {
+    "name": "JORF_20260519-003918.tar.gz",
+    "sha256": "d0b3e6c187d2743b7f9eedc19fd2ee243c691159203f3df1fe62deb6153eb072",
+    "bytes": 90486,
+    "members": 315
+   },
+   {
+    "name": "JORF_20260519-205954.tar.gz",
+    "sha256": "e6de1799e9cb438b9ffe0056d9155a3b34b25c50a89b6c7eb8561795d24af3d5",
+    "bytes": 2344978,
+    "members": 4711
+   },
+   {
+    "name": "JORF_20260520-002340.tar.gz",
+    "sha256": "896f54c575149ba2f565f62728a5896af65a01eee0ab85cb148a7c6de851b137",
+    "bytes": 95990,
+    "members": 479
+   },
+   {
+    "name": "JORF_20260520-213005.tar.gz",
+    "sha256": "478e8da3dc776f3311d170448ac16b4271e5b50321aee1ada2e8046ad2a60904",
+    "bytes": 5046613,
+    "members": 11884
+   },
+   {
+    "name": "JORF_20260521-002430.tar.gz",
+    "sha256": "323fa6588647bd3e709fb9b72acc40a095c98785272f4306b08805fd99f4baeb",
+    "bytes": 138774,
+    "members": 600
+   },
+   {
+    "name": "JORF_20260521-213511.tar.gz",
+    "sha256": "690537d9cb7b8240eb7fc15290b34a6dbc50e9df44f2cfcb3f5e74337d63a24d",
+    "bytes": 3429273,
+    "members": 4684
+   },
+   {
+    "name": "JORF_20260522-002804.tar.gz",
+    "sha256": "cd8060bc7d25494bb1545b9de57b53aec3f1fd074fb00c67de5e1adba789437b",
+    "bytes": 263882,
+    "members": 1082
+   },
+   {
+    "name": "JORF_20260522-211557.tar.gz",
+    "sha256": "d2feaaf0cba0caa436eeda81a1713ce45b7dcf45ae82425f6437a8c2bbc5f42b",
+    "bytes": 3955636,
+    "members": 6760
+   },
+   {
+    "name": "JORF_20260523-002456.tar.gz",
+    "sha256": "7d84c80ce524a9f73fba682b87efecbdb974b1e004f504016081a507408b036a",
+    "bytes": 212159,
+    "members": 616
+   },
+   {
+    "name": "JORF_20260523-212920.tar.gz",
+    "sha256": "0e264e300ec8203261e626b2cd0c5fb10a4f085e3bce9b9d5a63cfa51660ed22",
+    "bytes": 4955251,
+    "members": 8715
+   },
+   {
+    "name": "JORF_20260524-002330.tar.gz",
+    "sha256": "c13d5879d22b2165d0a62a612054d37ff21affd3f09a28d90e54dadbe296b872",
+    "bytes": 160836,
+    "members": 556
+   },
+   {
+    "name": "JORF_20260524-210930.tar.gz",
+    "sha256": "4be9434877fe52ec80a7419dec202c12ac02527b61dc20103206d69958257931",
+    "bytes": 3732643,
+    "members": 5220
+   },
+   {
+    "name": "JORF_20260525-201636.tar.gz",
+    "sha256": "069502c97f1d06641763dd3168b4bb9e733c4d9fa1ea1dba4a41e9a8eeca36c2",
+    "bytes": 378855,
+    "members": 1224
+   },
+   {
+    "name": "JORF_20260526-212444.tar.gz",
+    "sha256": "58c2391dc22095064a1ab54a569d769a3d46fe18d0d50d99f3e9f65cd3c1b263",
+    "bytes": 4972911,
+    "members": 9149
+   },
+   {
+    "name": "JORF_20260527-002826.tar.gz",
+    "sha256": "974b119a0520d8a353f988ae4cbf2622d0f3185afe7e824c68775c8eeaa09be2",
+    "bytes": 194570,
+    "members": 881
+   },
+   {
+    "name": "JORF_20260527-222846.tar.gz",
+    "sha256": "596ebac6753d451ff8a1156e1fff7d071016a8d9879d805968a011179c60d87c",
+    "bytes": 11623231,
+    "members": 35346
+   },
+   {
+    "name": "JORF_20260528-002624.tar.gz",
+    "sha256": "1cc0ee2b4d4bad1833a848f0be1d0f26c5494ad25de973fdee9857900d0cc786",
+    "bytes": 208348,
+    "members": 908
+   },
+   {
+    "name": "JORF_20260528-212842.tar.gz",
+    "sha256": "ec64e30bc6e864d4bab3ba0cd37c8302dc3721c241e67ab2cce4a247031e2205",
+    "bytes": 4517377,
+    "members": 8763
+   },
+   {
+    "name": "JORF_20260529-012442.tar.gz",
+    "sha256": "723c4fe7f47364c14bca7597d3874bea312fa693db008e63311d82c5749eeb31",
+    "bytes": 118875,
+    "members": 547
+   },
+   {
+    "name": "JORF_20260529-212228.tar.gz",
+    "sha256": "d713b676d388199613e10942f6a363210a191849bf9a85eee653119c7a854b54",
+    "bytes": 3353293,
+    "members": 4819
+   },
+   {
+    "name": "JORF_20260530-010228.tar.gz",
+    "sha256": "7df0f46d554cefceaf0297f995a1fef96be44ac87218adee2baee1042225fa12",
+    "bytes": 258377,
+    "members": 1052
+   },
+   {
+    "name": "JORF_20260530-213004.tar.gz",
+    "sha256": "9584c8d0f74598af09cc5e2f71ac6c4d712dfcbeff71b6ae55c0f913f61da2e1",
+    "bytes": 4947297,
+    "members": 10783
+   },
+   {
+    "name": "JORF_20260531-005110.tar.gz",
+    "sha256": "d8049aef2a7e0d1212fc6460a9cd161ab3a805b53b99f082df34535dc897fe14",
+    "bytes": 251803,
+    "members": 1078
+   },
+   {
+    "name": "JORF_20260531-213935.tar.gz",
+    "sha256": "4e2e039ae4747b9648642e645f9b3100ac9e8009eed037ad4fbffde8d2bc3ae2",
+    "bytes": 7063742,
+    "members": 14643
+   },
+   {
+    "name": "JORF_20260601-104919.tar.gz",
+    "sha256": "fc50b67b8747329d240af0a76cf4b60a1ac892b3594e3868b5156859a8fdecf1",
+    "bytes": 17475,
+    "members": 32
+   },
+   {
+    "name": "JORF_20260601-220831.tar.gz",
+    "sha256": "e6148d1d640266f10152d362e92e2f00c5a61ebad5a2031af156603aeebfb76b",
+    "bytes": 8288073,
+    "members": 17959
+   },
+   {
+    "name": "JORF_20260602-002405.tar.gz",
+    "sha256": "c5079e907020095f080c0676fada19a5879e34a27cda9cbef1177da01b17db1a",
+    "bytes": 153234,
+    "members": 738
+   },
+   {
+    "name": "JORF_20260602-214656.tar.gz",
+    "sha256": "531920e7a5985f893a5d7d2a59635f5d6f0368e81a8c3dda5979285ea289c75e",
+    "bytes": 4595553,
+    "members": 10898
+   },
+   {
+    "name": "JORF_20260603-005023.tar.gz",
+    "sha256": "3a61dc154c56321905b5c795ef35f795a30370672bdfd06f953c6a4ba9b4fa1d",
+    "bytes": 275815,
+    "members": 1403
+   },
+   {
+    "name": "JORF_20260603-220526.tar.gz",
+    "sha256": "fe359f52331bd56c59402c04d7040985d01981685f14ae54b9f8c3be594ea411",
+    "bytes": 8947783,
+    "members": 22147
+   },
+   {
+    "name": "JORF_20260604-002901.tar.gz",
+    "sha256": "43216d6d6597472bd9aad3fd7f05a8cc49aef8e5abecbf09c483be7ece30d0e8",
+    "bytes": 235623,
+    "members": 1110
+   },
+   {
+    "name": "JORF_20260604-214139.tar.gz",
+    "sha256": "5feff74ee795eba45134a92979df79ec9d540ce42f01a4aaf47e4d0423d2eecd",
+    "bytes": 11417230,
+    "members": 28869
+   },
+   {
+    "name": "JORF_20260605-002824.tar.gz",
+    "sha256": "b4bc1b96ebd93c1fb093290ded0419f7c420f1ce29a6be08fc6b132039c9ad40",
+    "bytes": 220637,
+    "members": 905
+   },
+   {
+    "name": "JORF_20260605-222728.tar.gz",
+    "sha256": "ee810862c46c158cb551b2b6e531f7671dbd92a90b82e1e12859e65250d0dcd7",
+    "bytes": 10104693,
+    "members": 26300
+   },
+   {
+    "name": "JORF_20260606-004832.tar.gz",
+    "sha256": "b510e9550d754c1d73ec65d02f737f8ea5dd5feea82b7751648f17016576bb44",
+    "bytes": 261973,
+    "members": 934
+   },
+   {
+    "name": "JORF_20260606-212958.tar.gz",
+    "sha256": "054dd4df058d53b7efd6dfbaf256e982f2326490a80a3e0a23153d546458fecb",
+    "bytes": 5298675,
+    "members": 9423
+   },
+   {
+    "name": "JORF_20260607-002647.tar.gz",
+    "sha256": "d14e3723fc9047321086c7003eaa45d3d4d468f9f8d75213fe3a87a78eab25a8",
+    "bytes": 191588,
+    "members": 909
+   },
+   {
+    "name": "JORF_20260607-205700.tar.gz",
+    "sha256": "86e79e7ec05ebf8ef498d8811206d053921d4280d93d878c420c3bd071e66d86",
+    "bytes": 2608541,
+    "members": 5120
+   },
+   {
+    "name": "JORF_20260608-213910.tar.gz",
+    "sha256": "9b4f22410cdc2675ebebbbe2dfee9dbccd3b74e9c1dfd904a086160bf0e89c8e",
+    "bytes": 5055548,
+    "members": 11665
+   },
+   {
+    "name": "JORF_20260609-002018.tar.gz",
+    "sha256": "977170d0d27c752d6d673c2feaf3b5cbc6d43c27aa4e28f8ac1f409925154596",
+    "bytes": 71799,
+    "members": 300
+   },
+   {
+    "name": "JORF_20260609-212725.tar.gz",
+    "sha256": "fb7d945a671de8ed5c60ad3b485ee98695f8db0f65c485e186984186c51b0c26",
+    "bytes": 4133117,
+    "members": 7284
+   },
+   {
+    "name": "JORF_20260610-010628.tar.gz",
+    "sha256": "3961aa5ceeaf00f512710fa2485d1aaf375311c7f6560738092b8ad2c3ef0fbf",
+    "bytes": 217271,
+    "members": 658
+   },
+   {
+    "name": "JORF_20260610-214017.tar.gz",
+    "sha256": "6ca1d7327bf8e1caac22916ee3fa4ab405313f54b5a3acdec43aba3a883be9cf",
+    "bytes": 4873935,
+    "members": 10232
+   },
+   {
+    "name": "JORF_20260611-002543.tar.gz",
+    "sha256": "273f6a98df1c3674aa50d147fd7a275bab9dd56061d242e40e82732ce00e6691",
+    "bytes": 205005,
+    "members": 835
+   },
+   {
+    "name": "JORF_20260611-215545.tar.gz",
+    "sha256": "1d2cd2a32e4b2dadd3489a3d2fc0c67cfe40febf77f0516919f4e9052373fa77",
+    "bytes": 12549464,
+    "members": 33253
+   },
+   {
+    "name": "JORF_20260612-005031.tar.gz",
+    "sha256": "61fb2e37220e5e808bf5715b651cfeb4790cb3fd6645549634d30442b2485ffa",
+    "bytes": 405693,
+    "members": 1262
+   },
+   {
+    "name": "JORF_20260612-215918.tar.gz",
+    "sha256": "c9e30b58d666faf725c728680bcafb5fea7f01a454ea3157613c896e0c22e6b3",
+    "bytes": 7620320,
+    "members": 12271
+   },
+   {
+    "name": "JORF_20260613-010126.tar.gz",
+    "sha256": "b20c80a0d1725723b5ccb8c6f263cc20e3ad279f3c9a8c10714eb2fa64759273",
+    "bytes": 273696,
+    "members": 959
+   },
+   {
+    "name": "JORF_20260613-213705.tar.gz",
+    "sha256": "116ca3f55f7fd3baf24a88822e20bd06e4b4e7e8dd977000cafa40305ef477aa",
+    "bytes": 4331656,
+    "members": 6262
+   },
+   {
+    "name": "JORF_20260614-002526.tar.gz",
+    "sha256": "973c950988567171a8f14ae71df81c3d6a85d314e9a891194a5b9363a6905f58",
+    "bytes": 132019,
+    "members": 578
+   },
+   {
+    "name": "JORF_20260614-211107.tar.gz",
+    "sha256": "336989006cc005a6b3ebbd0d31b2970cd3abe397dca8cd02b513c6a1ca76b027",
+    "bytes": 2382834,
+    "members": 5128
+   },
+   {
+    "name": "JORF_20260615-221231.tar.gz",
+    "sha256": "f82e9d5170028fad7d64a74315b970753553f718cb400373db349f2be4fa9c01",
+    "bytes": 7393726,
+    "members": 20737
+   },
+   {
+    "name": "JORF_20260616-014049.tar.gz",
+    "sha256": "14ab59552dde79ec78a9fa10f33ea91d08c278329dfda0f3d80a8218536b375c",
+    "bytes": 148536,
+    "members": 458
+   },
+   {
+    "name": "JORF_20260616-213852.tar.gz",
+    "sha256": "7a03002b23428f94b01595ea959bfcc68d45a1e94515c3dbbd10588f47a150b1",
+    "bytes": 3716104,
+    "members": 7588
+   },
+   {
+    "name": "JORF_20260617-002314.tar.gz",
+    "sha256": "3e35dc5ba60023619f81e7f8cc37ab309108a21386c02fd51c9244a25b3302a5",
+    "bytes": 112827,
+    "members": 409
+   },
+   {
+    "name": "JORF_20260617-213057.tar.gz",
+    "sha256": "fb79ec5278d32042302cd6f39cf02ae3e6664f1f4fc62bb8b6695749300522c6",
+    "bytes": 4449200,
+    "members": 9258
+   },
+   {
+    "name": "JORF_20260618-002647.tar.gz",
+    "sha256": "cf836118e9d0e75c8ef36636ad8c8df839f1836b98165e2991ef9fbec333dc76",
+    "bytes": 215769,
+    "members": 762
+   },
+   {
+    "name": "JORF_20260618-213729.tar.gz",
+    "sha256": "f40acb34f73362028d87cf39240c5a47c4c2152ec5ab3cc53b8c0480f33c063f",
+    "bytes": 4360803,
+    "members": 7236
+   },
+   {
+    "name": "JORF_20260619-002334.tar.gz",
+    "sha256": "8306f42e485321ba396841deab60ee65a4e961aaedc74dd561d266c389fd8e8a",
+    "bytes": 250738,
+    "members": 663
+   },
+   {
+    "name": "JORF_20260619-212738.tar.gz",
+    "sha256": "313f5e5cdad8f2bc69cd10f89f47f0cab02ccc9823a9f46ad81f456b6dda9bb7",
+    "bytes": 4272823,
+    "members": 6621
+   },
+   {
+    "name": "JORF_20260620-002841.tar.gz",
+    "sha256": "89d7394575301cb421b2ab46249cdfb41507d41b5f2916f275e171c7522022f2",
+    "bytes": 265399,
+    "members": 856
+   },
+   {
+    "name": "JORF_20260620-212647.tar.gz",
+    "sha256": "c37c34cba4843a9d0bbb182fed89de41001058548a67c5198f763f12aebb0f15",
+    "bytes": 3973122,
+    "members": 9791
+   },
+   {
+    "name": "JORF_20260621-002430.tar.gz",
+    "sha256": "998c192ebe9aef1fde876f455df21c92016ca766c9d96242b072895ef6ad7ea9",
+    "bytes": 169920,
+    "members": 798
+   },
+   {
+    "name": "JORF_20260621-210217.tar.gz",
+    "sha256": "52c574321459d6c598afb98707cf8a766dcef392a046406c1e2f4aa1d659fd98",
+    "bytes": 3896268,
+    "members": 6854
+   },
+   {
+    "name": "JORF_20260622-213822.tar.gz",
+    "sha256": "f8f19a931825254b71aa2135bf1359a8dbcefaa38f2e2c504e2c01720b3d5465",
+    "bytes": 6912237,
+    "members": 21160
+   },
+   {
+    "name": "JORF_20260623-002350.tar.gz",
+    "sha256": "3fa28c9167a9d459bd1f4c51de8ec464ece3de6117cb1b9a8b38da98b7a71219",
+    "bytes": 173915,
+    "members": 808
+   },
+   {
+    "name": "JORF_20260623-205747.tar.gz",
+    "sha256": "16e931640878015736fdaa7cb7ce0921025832eab7e90d94f4c9623e1e9ec035",
+    "bytes": 2192624,
+    "members": 4204
+   },
+   {
+    "name": "JORF_20260624-002810.tar.gz",
+    "sha256": "b83b2f217bd0a5e9cc28272116f7e985938e42a43ca1185d0814852aa9520457",
+    "bytes": 181477,
+    "members": 743
+   },
+   {
+    "name": "JORF_20260624-215402.tar.gz",
+    "sha256": "06938b32f2a1edab2df57775a244a514310a88052b90cf91482325ac749b843b",
+    "bytes": 7854072,
+    "members": 22566
+   },
+   {
+    "name": "JORF_20260625-002840.tar.gz",
+    "sha256": "3c9cb13ef4612f4acb7f931eee7e87156d74923e64840a5722043d7bfae32b6b",
+    "bytes": 171191,
+    "members": 864
+   },
+   {
+    "name": "JORF_20260625-214542.tar.gz",
+    "sha256": "6a2f7f7b3e88f4772fc8cd6f1413208e1f87b88fc3802fb516bcbc61b2f04b01",
+    "bytes": 6129744,
+    "members": 10342
+   },
+   {
+    "name": "JORF_20260626-003520.tar.gz",
+    "sha256": "fc559b5f31a327f4e03d256bb83c4633cdb0d7764354c9d1f92b40f79bbf7bdf",
+    "bytes": 391492,
+    "members": 1569
+   },
+   {
+    "name": "JORF_20260626-222225.tar.gz",
+    "sha256": "973bc4253ba6b5c18bacf1be3fc29da92a56d0410c4e2e4089f723cf6ecb4169",
+    "bytes": 10468682,
+    "members": 21764
+   },
+   {
+    "name": "JORF_20260627-011148.tar.gz",
+    "sha256": "15ef05ce5a7736684d9602f2a1a2ca5217ccfcdc6594bf4690022675c31c26c6",
+    "bytes": 202357,
+    "members": 916
+   },
+   {
+    "name": "JORF_20260627-212718.tar.gz",
+    "sha256": "998bd4a97fef028c577cf1f0fea5909f3c4f3ec8a80e1af3bc1a23cc02c1eb86",
+    "bytes": 3629715,
+    "members": 5935
+   },
+   {
+    "name": "JORF_20260628-002400.tar.gz",
+    "sha256": "72287825c2257e2ec9e7a8f94d3fcd7316f1a724afe7f0c0aebfda3b1bf8ee10",
+    "bytes": 119910,
+    "members": 477
+   },
+   {
+    "name": "JORF_20260628-211533.tar.gz",
+    "sha256": "af575ef82409f0d3d6e8db8a6ab3312f21d0e879755af21899fada758649af4b",
+    "bytes": 4695115,
+    "members": 7493
+   },
+   {
+    "name": "JORF_20260629-223234.tar.gz",
+    "sha256": "1285dcf22c1c5d08da1fad0d482f528d5e202af3efd3875c86828a836905c895",
+    "bytes": 10664976,
+    "members": 26466
+   },
+   {
+    "name": "JORF_20260630-014711.tar.gz",
+    "sha256": "62140805333889e47e953e97be14df47953d13fd794c34c4f90c11222487c1d8",
+    "bytes": 229303,
+    "members": 769
+   },
+   {
+    "name": "JORF_20260630-220855.tar.gz",
+    "sha256": "44cc6782914880e64d81187a0f649a0b3a71748e8484158e2019298d3bd9c457",
+    "bytes": 9281516,
+    "members": 20452
+   },
+   {
+    "name": "JORF_20260701-002816.tar.gz",
+    "sha256": "df4b58504ff2479ed5873929eee97488b6896509c41cdc84a987329333fd94d7",
+    "bytes": 173927,
+    "members": 1020
+   },
+   {
+    "name": "JORF_20260701-101416.tar.gz",
+    "sha256": "0adf34a1bc926edd6b9f13763cf5c16e2141ccf9460fec8edf7501dccd577b54",
+    "bytes": 30138,
+    "members": 88
+   },
+   {
+    "name": "JORF_20260701-222046.tar.gz",
+    "sha256": "5425307e14813fbb86c24f4c19b5fdce435bbca30977df7b5f79ddb9fcd55f3d",
+    "bytes": 8903736,
+    "members": 21884
+   },
+   {
+    "name": "JORF_20260702-003141.tar.gz",
+    "sha256": "555b80a4f99501f82844b17732c49d3d22bbc9ade7bfc1a7c9cf6e9654993896",
+    "bytes": 222322,
+    "members": 936
+   },
+   {
+    "name": "JORF_20260702-223445.tar.gz",
+    "sha256": "aa9d7b7ad50353bd0e0fc0330e2d1f4f9c1c99dfc3f4bf4bcf550817a0eae10e",
+    "bytes": 9632904,
+    "members": 17771
+   },
+   {
+    "name": "JORF_20260703-002715.tar.gz",
+    "sha256": "2152673d6529fbf7e101add886c14f041c64df757f6141c0e1af6be96ef78f71",
+    "bytes": 147726,
+    "members": 722
+   },
+   {
+    "name": "JORF_20260703-214412.tar.gz",
+    "sha256": "13b14537f76931a755942191bcc86fabf4c701d5874c1d90d4b3ee8285798ed5",
+    "bytes": 4791195,
+    "members": 6507
+   },
+   {
+    "name": "JORF_20260704-002403.tar.gz",
+    "sha256": "e61d5d926e0399af505aa7081c4b2594029d2a9ff9b0236eba94dfecf9b93ff3",
+    "bytes": 141690,
+    "members": 517
+   },
+   {
+    "name": "JORF_20260704-212159.tar.gz",
+    "sha256": "4604832bb9bc0639885ea69af5ed3832247e406734a45ffbee32e8a471c0adb0",
+    "bytes": 4086064,
+    "members": 6307
+   },
+   {
+    "name": "JORF_20260705-002348.tar.gz",
+    "sha256": "9c6f3799f941b5ce9dd1f1a3017191f165d411c75b2b619c4470fac4532bc95b",
+    "bytes": 168548,
+    "members": 637
+   },
+   {
+    "name": "JORF_20260705-211232.tar.gz",
+    "sha256": "0b0c7596cb8990407cc6d7ae3db6c2bdcef951980e678a1bd4ea237db0a9e44c",
+    "bytes": 4672620,
+    "members": 6365
+   },
+   {
+    "name": "JORF_20260706-211216.tar.gz",
+    "sha256": "750c81c9462bb663f4de7a2eaf544a1c756c69d2c16ebab3b9be819a69691ece",
+    "bytes": 4920285,
+    "members": 9244
+   },
+   {
+    "name": "JORF_20260707-002241.tar.gz",
+    "sha256": "2d13d6981959bcd2acfb48b17bad582dfc513541331f44a5cb0c3c744190a049",
+    "bytes": 129016,
+    "members": 472
+   },
+   {
+    "name": "JORF_20260707-211437.tar.gz",
+    "sha256": "74aeee8fa76cd31b0f33223a6df68b50cd534138c71e467d581adef3cee22299",
+    "bytes": 3816268,
+    "members": 5757
+   },
+   {
+    "name": "JORF_20260708-002947.tar.gz",
+    "sha256": "ace33ea4297b1e3d117c29256d3464a2b758764e5ba763d6dba5b727f0dc1070",
+    "bytes": 306431,
+    "members": 883
+   },
+   {
+    "name": "JORF_20260708-215132.tar.gz",
+    "sha256": "ea538e75e0aa2b2ea7f0dbdda347873f63bb39ea79c6d04c3c6bbc7949d70ac5",
+    "bytes": 5493974,
+    "members": 9602
+   },
+   {
+    "name": "JORF_20260709-002743.tar.gz",
+    "sha256": "9969731d100b85cc1bad6c08e78495a747c9da50086a080a4eada3d2b575a966",
+    "bytes": 281377,
+    "members": 1032
+   },
+   {
+    "name": "JORF_20260709-215602.tar.gz",
+    "sha256": "7d90ed408b716a26de3abc16c2de7637ff14e476cf67e390f5c62f80de14cbbc",
+    "bytes": 7199613,
+    "members": 15168
+   },
+   {
+    "name": "JORF_20260710-011608.tar.gz",
+    "sha256": "27bf8cf31462ea47e0c284016bdffca79b7c94d5a4bd80d1715d1563a8990d4f",
+    "bytes": 256609,
+    "members": 1050
+   },
+   {
+    "name": "JORF_20260710-220101.tar.gz",
+    "sha256": "9507c550cbe1a315ad2b287e4a569349249f7f7eb8dbd14e2986f7d50b2fc6f8",
+    "bytes": 6038083,
+    "members": 9713
+   },
+   {
+    "name": "JORF_20260711-020608.tar.gz",
+    "sha256": "8401d3cbd3e3098bae65d3c9680725cd6781ef30574c7e058efac58602e6a9fb",
+    "bytes": 308631,
+    "members": 903
+   },
+   {
+    "name": "JORF_20260711-213130.tar.gz",
+    "sha256": "e98d67b4fd7d3c702f8e46cc5eb426d0597f9dcc118b8b864b7c0df9354dea01",
+    "bytes": 3963570,
+    "members": 8147
+   },
+   {
+    "name": "JORF_20260712-002551.tar.gz",
+    "sha256": "4c98128691c1d49a3d0fd68d02110b6b6fd98ac698f60186da24d40a14e5b1e4",
+    "bytes": 159430,
+    "members": 698
+   },
+   {
+    "name": "JORF_20260712-205733.tar.gz",
+    "sha256": "94306a93299dcd4a4af7cf46434694bc291e61951abe25b22ac163119ce3ff7b",
+    "bytes": 2978790,
+    "members": 5851
+   },
+   {
+    "name": "JORF_20260713-212510.tar.gz",
+    "sha256": "b4ee8f831719f1e120648fb1de6985007c17a6930c735f05124d01dca68aee26",
+    "bytes": 6504668,
+    "members": 14989
+   },
+   {
+    "name": "JORF_20260714-005537.tar.gz",
+    "sha256": "c26536e6f0b29ade94277ea024ccaead6925b0ff69a01e1404e985c912a79807",
+    "bytes": 101500,
+    "members": 339
+   },
+   {
+    "name": "JORF_20260714-210614.tar.gz",
+    "sha256": "68df0a6e8cf8e7fe2b36b0945305da903e15b77c70f201ddf5784e0e9e8f1b01",
+    "bytes": 2091399,
+    "members": 2796
+   },
+   {
+    "name": "JORF_20260715-212020.tar.gz",
+    "sha256": "4caf81e65dc6f4fbf215ba7da8a3632cefbf2f202c74917fc05c9749770e8dd8",
+    "bytes": 2256808,
+    "members": 5377
+   },
+   {
+    "name": "JORF_20260716-010042.tar.gz",
+    "sha256": "5e587270cabf4ce155df38918cc13e5a54ef635b591622d08dbd2473bbb2f978",
+    "bytes": 341764,
+    "members": 869
+   },
+   {
+    "name": "JORF_20260716-214918.tar.gz",
+    "sha256": "fc63cd335bda1361923fe268b790c67a8ccf04293ed52876171b5a96a5c796ca",
+    "bytes": 4768600,
+    "members": 7888
+   },
+   {
+    "name": "JORF_20260717-003012.tar.gz",
+    "sha256": "b87def3ee36ef826fca71d026a83b0f825e156fced631e3b9a006d2a602bb3a0",
+    "bytes": 310522,
+    "members": 797
+   },
+   {
+    "name": "JORF_20260717-215733.tar.gz",
+    "sha256": "884577a6be5eca1b79ad986d1151273c05cdb19822231e0420f071d80eef1496",
+    "bytes": 5946043,
+    "members": 8963
+   },
+   {
+    "name": "JORF_20260718-002549.tar.gz",
+    "sha256": "01449615b7b4622b7638531fdc8479596b7dfbc21c5abd034a3db22087de8b87",
+    "bytes": 141425,
+    "members": 549
+   },
+   {
+    "name": "JORF_20260718-210817.tar.gz",
+    "sha256": "02a586ac869897affc425f464c97ca6baf4929ee3ef195bd4fdb680e32556dc8",
+    "bytes": 4803122,
+    "members": 6934
+   },
+   {
+    "name": "JORF_20260719-002652.tar.gz",
+    "sha256": "b3674180ada91ae7c62cdd133504868eec025cfe87a98fe0151bef7e5ed42b9d",
+    "bytes": 180206,
+    "members": 980
+   },
+   {
+    "name": "JORF_20260719-205439.tar.gz",
+    "sha256": "716ae8761396d518aa6fdebce687c7b4b30ad647f5d22471ae8a2471deb6f22b",
+    "bytes": 2794750,
+    "members": 3990
+   },
+   {
+    "name": "JORF_20260720-210701.tar.gz",
+    "sha256": "a493e176487936543514557ef401e25ae888b11183466da0e3effcff232451b4",
+    "bytes": 3232603,
+    "members": 5935
+   },
+   {
+    "name": "JORF_20260721-002132.tar.gz",
+    "sha256": "14cf662f65a6a2d933b4767ecfb8be088590a479e2f575362f412a6e2b867bf5",
+    "bytes": 88144,
+    "members": 314
+   },
+   {
+    "name": "JORF_20260721-211112.tar.gz",
+    "sha256": "53c8cd6a88987e26cf02bf6da506ec6180bdbf939323fd0b75a3b18bb9f796a4",
+    "bytes": 2128071,
+    "members": 3237
+   },
+   {
+    "name": "JORF_20260722-002953.tar.gz",
+    "sha256": "8840afc6b36a0dee4105527cc5a3d10959cc9954b9f3f84937d5575ad640639e",
+    "bytes": 249902,
+    "members": 1022
+   },
+   {
+    "name": "JORF_20260722-220255.tar.gz",
+    "sha256": "e51a28ef9e35977a4b1e3f8e8586fede23bec94eb0a8dea1f181cbf7cd9008fc",
+    "bytes": 6568196,
+    "members": 12333
+   },
+   {
+    "name": "JORF_20260723-005452.tar.gz",
+    "sha256": "f309afccbd29e9bf6d95181c93014e3306d659fb5bd54c6604c825046c585fb0",
+    "bytes": 253321,
+    "members": 1257
+   },
+   {
+    "name": "JORF_20260723-224400.tar.gz",
+    "sha256": "dacf29c8180452545c104c91b368af1423be5ac5dff93479f581204a80fd3144",
+    "bytes": 9852163,
+    "members": 21972
+   },
+   {
+    "name": "JORF_20260724-002903.tar.gz",
+    "sha256": "6728416d86e181b0f2fd10cd409ab22832944d0aa335d9c8d71706a590b1813d",
+    "bytes": 251817,
+    "members": 1003
+   },
+   {
+    "name": "JORF_20260724-222927.tar.gz",
+    "sha256": "af697baa1629130e8a9e87fdfd0add1187aa6d7cf1aa5f86c49556a862cf9fc1",
+    "bytes": 8015527,
+    "members": 14106
+   },
+   {
+    "name": "JORF_20260725-002704.tar.gz",
+    "sha256": "e584ae2d82ef22b0bf4909d029771a13680c2fd2a9a5c52e023dccf1a2b7ad6c",
+    "bytes": 210175,
+    "members": 866
+   },
+   {
+    "name": "JORF_20260725-211146.tar.gz",
+    "sha256": "0233cd312e1fd49693f1e56d96c4e009854ad6d2b3a9c30ffa218e1136e7631f",
+    "bytes": 4252652,
+    "members": 7812
+   },
+   {
+    "name": "JORF_20260726-002559.tar.gz",
+    "sha256": "fc420bfb10b1021f01cfcd143f12c1a2ceba3014b2e997ec0710b874483dda2d",
+    "bytes": 159439,
+    "members": 667
+   },
+   {
+    "name": "JORF_20260726-210021.tar.gz",
+    "sha256": "68b7f2525d7442c5392f01faf6460d35dd9d83ed163639e2ba01c664252e3b7b",
+    "bytes": 3592969,
+    "members": 6179
+   },
+   {
+    "name": "JORF_20260727-214936.tar.gz",
+    "sha256": "619ef109a4240c8b8941cc59b54b4817cd753caa879c35af02bfb83bf50dd4dc",
+    "bytes": 6290080,
+    "members": 13192
+   },
+   {
+    "name": "JORF_20260728-003542.tar.gz",
+    "sha256": "f4a44580666ec1382738d73c0cdaa372cc6b293dc7a337c600c2e3eb8f1b97bf",
+    "bytes": 505031,
+    "members": 3364
+   },
+   {
+    "name": "JORF_20260728-135307.tar.gz",
+    "sha256": "5dcdb1b4796f76f381971fb5f8833ca6df1e25cc980f1e24c67c2a1777535b52",
+    "bytes": 18804,
+    "members": 31
+   },
+   {
+    "name": "JORF_20260728-220005.tar.gz",
+    "sha256": "a66dd7ef08b5b9b79d87e3ae5a0d3955ed2a1201e289d45954388d326dc0ab06",
+    "bytes": 8465503,
+    "members": 26193
+   },
+   {
+    "name": "JORF_20260729-003137.tar.gz",
+    "sha256": "9a9eaa4dfe28442c471370411eaf989a87150ea07d4d334e39a75489df34c2cd",
+    "bytes": 245275,
+    "members": 1108
+   },
+   {
+    "name": "JORF_20260729-223923.tar.gz",
+    "sha256": "9a3611576158e6e04e2214a655ca788b0cc6e58579482e8bc53041919c600084",
+    "bytes": 9782880,
+    "members": 26986
+   },
+   {
+    "name": "JORF_20260730-003059.tar.gz",
+    "sha256": "e9c84952076870547a062b311304ff88ee3d1199401f896b31a65b9b5ca0f00d",
+    "bytes": 240159,
+    "members": 1197
+   },
+   {
+    "name": "JORF_20260730-222818.tar.gz",
+    "sha256": "902ca717dc263ee272a1e6e7c0ab63643d7cecfc9c4bc2405e547ec197d3c045",
+    "bytes": 11499378,
+    "members": 28429
+   },
+   {
+    "name": "JORF_20260731-003333.tar.gz",
+    "sha256": "4524039663ff25ed7edd660be239cf1ecc583b2ceb87e4464e43f25ad837ab5b",
+    "bytes": 271980,
+    "members": 1325
+   },
+   {
+    "name": "JORF_20260731-221216.tar.gz",
+    "sha256": "04c32c7ad3c6e3092d1a987c246ad303b88bc432863d1a816e5aca5bdda67cfd",
+    "bytes": 8384071,
+    "members": 22280
+   },
+   {
+    "name": "JORF_20260801-002801.tar.gz",
+    "sha256": "86787e0551f94bc16c2c03b5ae9286fa07cf8ac6810041e3af786c05ba34e571",
+    "bytes": 251505,
+    "members": 901
+   },
+   {
+    "name": "JORF_20260801-214401.tar.gz",
+    "sha256": "a914d6681a930326acd80789ab1c8e49361cadbbc377bfbf42f9f190cdc85415",
+    "bytes": 5339974,
+    "members": 11894
+   },
+   {
+    "name": "JORF_20260802-002415.tar.gz",
+    "sha256": "942b5b52efe8e95947cc1002bbc066928b62d1cf4c6f37772d90e9164fa0fa9d",
+    "bytes": 151778,
+    "members": 595
+   },
+   {
+    "name": "JORF_20260802-212422.tar.gz",
+    "sha256": "ef337e0ca40bb0217327202ea9ca262e56684bcfddc9e3070c17c0065c884206",
+    "bytes": 3280123,
+    "members": 8994
+   },
+   {
+    "name": "JORF_20260803-212828.tar.gz",
+    "sha256": "c7ed27a6b87d44843bda9caaf3e6137e80fa1d3c688dd24b373d54587a43c7ef",
+    "bytes": 6633306,
+    "members": 19137
+   },
+   {
+    "name": "JORF_20260804-004916.tar.gz",
+    "sha256": "cfe42994a0c04de25115fa0abe9c8c42758f140516fbca3d40d40270eaf48519",
+    "bytes": 253823,
+    "members": 976
+   },
+   {
+    "name": "JORF_20260804-220219.tar.gz",
+    "sha256": "4f88d4ac6a56b1391719161b881120f95b563c25519878b2e39969c7e9c9c0b5",
+    "bytes": 7282427,
+    "members": 18045
+   },
+   {
+    "name": "JORF_20260805-002303.tar.gz",
+    "sha256": "b96756a24d2374008befd163d3f745b734f0e73161022e935e12f03c004aae2d",
+    "bytes": 104018,
+    "members": 513
+   },
+   {
+    "name": "JORF_20260805-214530.tar.gz",
+    "sha256": "16c61e3bd7613ed3094cd2ca5f9ce866ae734583f6cfcaa436f7a87fe58f26cc",
+    "bytes": 4808578,
+    "members": 11232
+   },
+   {
+    "name": "JORF_20260806-002224.tar.gz",
+    "sha256": "52b23d7c968744d6dca3ec065de0c97b886abd451db8d080e2c65c849fa804a3",
+    "bytes": 78108,
+    "members": 377
+   },
+   {
+    "name": "JORF_20260806-213018.tar.gz",
+    "sha256": "e67d2b8f81a3f84b61669337cf4adf2dc05655e793f921a7f44d1800e8c361d0",
+    "bytes": 4364241,
+    "members": 9841
+   },
+   {
+    "name": "JORF_20260807-002758.tar.gz",
+    "sha256": "67f7996a8621652ab3a7f3fca009ae93ef3e3070aafb91d9ea2d750ab40d55ed",
+    "bytes": 282944,
+    "members": 858
+   },
+   {
+    "name": "JORF_20260807-213914.tar.gz",
+    "sha256": "52d667fcd7016ccdf0a75638d13b275de97caeb88b2f42b5c79c0e72d3b8eb95",
+    "bytes": 7015819,
+    "members": 18696
+   },
+   {
+    "name": "JORF_20260808-002506.tar.gz",
+    "sha256": "ded7513a92aafb07cf389a5a3a0ceff76e194fa11ce324300a3d8cc702a87e7d",
+    "bytes": 118827,
+    "members": 638
+   },
+   {
+    "name": "JORF_20260808-211633.tar.gz",
+    "sha256": "77d8c30b82f50851f0d3638b08cf9244a202458981945c6d0b6e5f90ff94d774",
+    "bytes": 3538748,
+    "members": 7753
+   },
+   {
+    "name": "JORF_20260809-002504.tar.gz",
+    "sha256": "f3082542ceede0fb6629fe6fce854e6f02c161b57e924a48f61b45eca0328df1",
+    "bytes": 251661,
+    "members": 604
+   },
+   {
+    "name": "JORF_20260809-211116.tar.gz",
+    "sha256": "b55b18311cc664992012565d0356fc102d03e120d905a2db43b09703227cd366",
+    "bytes": 3334825,
+    "members": 6127
+   },
+   {
+    "name": "JORF_20260810-213209.tar.gz",
+    "sha256": "3ba437e0b7926eb65d951928e04b7b68123b20c3ea1cb5e68d68163ee0aae46c",
+    "bytes": 7970715,
+    "members": 28852
+   },
+   {
+    "name": "JORF_20260811-004117.tar.gz",
+    "sha256": "a1b96a615ec0dc9ea7711ccf20595d338b88a19364ed2a82f4e728cd8438a564",
+    "bytes": 80547,
+    "members": 361
+   },
+   {
+    "name": "JORF_20260811-214348.tar.gz",
+    "sha256": "51941fd4b8d328498ed53d5badeda959abae15f8716b75e5909c99f1bbc1699b",
+    "bytes": 5798032,
+    "members": 15250
+   },
+   {
+    "name": "JORF_20260812-002752.tar.gz",
+    "sha256": "8ef800c751d037a284124bca0470838cbb5745aff066ac0a70949573be67554c",
+    "bytes": 120114,
+    "members": 716
+   },
+   {
+    "name": "JORF_20260812-214541.tar.gz",
+    "sha256": "5398d57f91cbbfd1e6cf7383394e7e9bf47ae50883353725b9f7c1fd9c50c783",
+    "bytes": 6282523,
+    "members": 16124
+   },
+   {
+    "name": "JORF_20260813-002133.tar.gz",
+    "sha256": "fdc0b9a42693a860fdbafab1071a1778272fee60197d7068cb909989c822ffb8",
+    "bytes": 79530,
+    "members": 436
+   },
+   {
+    "name": "JORF_20260813-212523.tar.gz",
+    "sha256": "8836d59ad8f03e9ab7867194a8cf1912fcf7e9bff4bbcaf20ebaefc04c6ff66f",
+    "bytes": 2931457,
+    "members": 6064
+   },
+   {
+    "name": "JORF_20260814-002229.tar.gz",
+    "sha256": "209ad96fc6e5b2ff79c0bd9fe79a30c5444600ac2fd5cd326845c4185c1fe30a",
+    "bytes": 137679,
+    "members": 481
+   },
+   {
+    "name": "JORF_20260814-213449.tar.gz",
+    "sha256": "6ae1b9bcc853d08c1f79c0dccabd0ce45da630e72d93842ec6a6fb9439c97904",
+    "bytes": 4134975,
+    "members": 9654
+   },
+   {
+    "name": "JORF_20260815-002524.tar.gz",
+    "sha256": "a8dffccbf1eecc935e09db2bbf04b955c9b8b5bdcd42af3e5ac46babd03b7691",
+    "bytes": 125214,
+    "members": 673
+   },
+   {
+    "name": "JORF_20260815-212325.tar.gz",
+    "sha256": "9dde066d86ca01fd29d1dfe4f79a4179fcab2909c9ad98c0e1baf8fe3cdfe897",
+    "bytes": 2976552,
+    "members": 6236
+   },
+   {
+    "name": "JORF_20260817-212752.tar.gz",
+    "sha256": "a1872ef76d419860378a069dbab113664eb8a7bdf5abd0872b9f88e05ed82a85",
+    "bytes": 4744796,
+    "members": 13785
+   },
+   {
+    "name": "JORF_20260818-002359.tar.gz",
+    "sha256": "928d28caa0e0971b23dcfa6744f60d4d1d047bc372a12c821888408d7fea559b",
+    "bytes": 246953,
+    "members": 459
+   },
+   {
+    "name": "JORF_20260818-223511.tar.gz",
+    "sha256": "2c47c35eea9fdb2726cfefedbc377c9f1b911bd26ea304b2aeb6cabe43f70778",
+    "bytes": 13219711,
+    "members": 31401
+   },
+   {
+    "name": "JORF_20260819-003035.tar.gz",
+    "sha256": "5052b0e64b0b54c7d4cb71f487c9d064022d7aad5132203c833027c77c566782",
+    "bytes": 450119,
+    "members": 933
+   },
+   {
+    "name": "JORF_20260819-222711.tar.gz",
+    "sha256": "d294365b8ea030bd69c5436d3fa6a03e1b9afb05a5805105ddaeae616530d0bc",
+    "bytes": 10257252,
+    "members": 25852
+   },
+   {
+    "name": "JORF_20260820-002202.tar.gz",
+    "sha256": "e9b5fad43b285dae32280180854eaecd8c56a4f31375501139a4f7cd826e0d15",
+    "bytes": 127551,
+    "members": 396
+   },
+   {
+    "name": "JORF_20260820-220411.tar.gz",
+    "sha256": "267d1e9519fd6eb59e3d8fa037697568ee38b9ef0f6f3d522ecf6584dbed73d1",
+    "bytes": 10622960,
+    "members": 34102
+   },
+   {
+    "name": "JORF_20260821-002347.tar.gz",
+    "sha256": "a774bf77d90d1fba87a35531a6c67866a312ecfd78e99a66725dec8dad45d468",
+    "bytes": 150319,
+    "members": 474
+   },
+   {
+    "name": "JORF_20260821-211659.tar.gz",
+    "sha256": "fdafd256fd4aa6d1052569215cfba9ef3d96b3ae8fdd512aee0f1e688448c97a",
+    "bytes": 3776067,
+    "members": 7776
+   },
+   {
+    "name": "JORF_20260822-002531.tar.gz",
+    "sha256": "01ca2d4e6a77cf7db7c0c5aea52e9d5834852c3dcb171b5e81d191f5a4181181",
+    "bytes": 198441,
+    "members": 552
+   },
+   {
+    "name": "JORF_20260822-211810.tar.gz",
+    "sha256": "2c2c9aed36725c37aa8048eec1bfaeab8b8ae1f72117245ec364aabe44e2bb88",
+    "bytes": 3459547,
+    "members": 5915
+   },
+   {
+    "name": "JORF_20260823-002746.tar.gz",
+    "sha256": "209210dbfb6861050e10bb8e94fcaae3c11f8652583dc822aa3fc8bd7d33853e",
+    "bytes": 128669,
+    "members": 504
+   },
+   {
+    "name": "JORF_20260823-210320.tar.gz",
+    "sha256": "5f32f2ba6c379a41bf053501fe878f795c5678b328f4f791f656f00165770355",
+    "bytes": 2923498,
+    "members": 4738
+   },
+   {
+    "name": "JORF_20260824-213520.tar.gz",
+    "sha256": "f04509ef47470ffdea802e8540f0936d1c44a4548b1615fb37984f968c5c01c9",
+    "bytes": 5906105,
+    "members": 8741
+   },
+   {
+    "name": "JORF_20260825-002208.tar.gz",
+    "sha256": "e4293cb1189986a733fbe47e43a8a5b28c93907d057480e76a2ea9d5808754a0",
+    "bytes": 90855,
+    "members": 428
+   },
+   {
+    "name": "JORF_20260825-215737.tar.gz",
+    "sha256": "8fafabb3f26b948b2b69633d363f7cf487e96d05efffcd17d46d9fd09ea96165",
+    "bytes": 4712176,
+    "members": 7258
+   },
+   {
+    "name": "JORF_20260826-002510.tar.gz",
+    "sha256": "790df3b5cda93cee501ece534e70dbe4b30888291f5f133d18e1072d87e545a9",
+    "bytes": 143937,
+    "members": 537
+   },
+   {
+    "name": "JORF_20260826-214758.tar.gz",
+    "sha256": "be29eb4719db8f01b2c1bb9c7cb74d8b8feea268235fc74a4dc87bbb81859c92",
+    "bytes": 4160999,
+    "members": 6490
+   },
+   {
+    "name": "JORF_20260827-004918.tar.gz",
+    "sha256": "570b33cee7e3cab20e0da393979b5cb6aaa4705c0ac01749e43bf3714f641f01",
+    "bytes": 146540,
+    "members": 783
+   },
+   {
+    "name": "JORF_20260827-214931.tar.gz",
+    "sha256": "6fdb23d0fe4fd9b0da0e99040b61e3957bc21285446e16574e7bd65d80256f3b",
+    "bytes": 4413666,
+    "members": 7477
+   },
+   {
+    "name": "JORF_20260828-002308.tar.gz",
+    "sha256": "562262446e3feef6b9331c699188268c7c2a1e5df4ec324e36f268dd1454b10d",
+    "bytes": 154649,
+    "members": 701
+   },
+   {
+    "name": "JORF_20260828-213058.tar.gz",
+    "sha256": "d39ec7f4d5975174d8907dd8d2ee7e0b7671216c9e3faf0881cf4caa704cc686",
+    "bytes": 4652820,
+    "members": 6749
+   },
+   {
+    "name": "JORF_20260829-002340.tar.gz",
+    "sha256": "da8bc624a2c42e3c48e15624ffd87c48d1fa87fb6f40a96f4777f165e75eec72",
+    "bytes": 147687,
+    "members": 493
+   },
+   {
+    "name": "JORF_20260829-205839.tar.gz",
+    "sha256": "ef59a3d315d5985e4acb39fde250c87fe52b1909d6a216b9777a616adda257db",
+    "bytes": 2769128,
+    "members": 5476
+   },
+   {
+    "name": "JORF_20260830-002337.tar.gz",
+    "sha256": "38655e77a5e7e0e1237682d30b13c5a50e5c4619d1c1158b445f269889e76a49",
+    "bytes": 176366,
+    "members": 360
+   },
+   {
+    "name": "JORF_20260830-205422.tar.gz",
+    "sha256": "2d66b32622a98b22dfb7f1eb1688082df76462fc64defd4d740f0e253ab20326",
+    "bytes": 3077790,
+    "members": 4729
+   },
+   {
+    "name": "JORF_20260831-212841.tar.gz",
+    "sha256": "d1cb54b2762e8fd75c94362eb8181c959ba391e4057c3c31b2ac43b354c88431",
+    "bytes": 5275059,
+    "members": 10634
+   },
+   {
+    "name": "JORF_20260901-002127.tar.gz",
+    "sha256": "a3a9fb8b62aa5111e7ca7d154be53bf512a72a38e44399e44306af80d2bb6815",
+    "bytes": 56897,
+    "members": 302
+   },
+   {
+    "name": "JORF_20260901-212910.tar.gz",
+    "sha256": "188336db55297857a7b70c46afb1de08b368a3850f24513c4e3bca5e96f2d203",
+    "bytes": 7180348,
+    "members": 26153
+   },
+   {
+    "name": "JORF_20260902-002313.tar.gz",
+    "sha256": "d896e43c4e0d94ec19c86b477aac316d6e875f5422085fd80f30579ce3ff17c2",
+    "bytes": 77352,
+    "members": 421
+   },
+   {
+    "name": "JORF_20260902-210756.tar.gz",
+    "sha256": "ea0e18674ffba7e4bc11b27daf5b4a020c1020e4bad094c415bcc7cc9d71dd7f",
+    "bytes": 3255041,
+    "members": 5858
+   },
+   {
+    "name": "JORF_20260903-004449.tar.gz",
+    "sha256": "fddaed9ed266fe533c4f8f3f586e857325ce348bd15fa4f854cc723ff10a4439",
+    "bytes": 147887,
+    "members": 583
+   },
+   {
+    "name": "JORF_20260903-213439.tar.gz",
+    "sha256": "fc8d6e821a9b84a4c11a37f39bdfd9ec9e7ec20ab5924fb95d483f660f7c0818",
+    "bytes": 4356627,
+    "members": 5983
+   },
+   {
+    "name": "JORF_20260904-010813.tar.gz",
+    "sha256": "729ca928316cdb1399239d0e58e190e2a84921c85bf531493ca860dd953f1351",
+    "bytes": 145341,
+    "members": 499
+   },
+   {
+    "name": "JORF_20260904-212554.tar.gz",
+    "sha256": "5d8811542a11d9e5bcad7a14bb6cc218aea77d956323d820680afd148d02fa19",
+    "bytes": 2473426,
+    "members": 3821
+   },
+   {
+    "name": "JORF_20260905-004620.tar.gz",
+    "sha256": "edec7f27c7326f96effe331d76f3288195e0b210de8798472b0365b189d6ad1b",
+    "bytes": 126639,
+    "members": 676
+   },
+   {
+    "name": "JORF_20260905-213606.tar.gz",
+    "sha256": "e63c469405887a58d37a92b4dd96fbf0922198a630c85bcd840a68f33c61ae49",
+    "bytes": 4271518,
+    "members": 5909
+   },
+   {
+    "name": "JORF_20260906-002336.tar.gz",
+    "sha256": "c506077cc64f1f52d3dcbb1c94d71aa741ecaf6f1e9d0281974e7f6320833b76",
+    "bytes": 90847,
+    "members": 483
+   },
+   {
+    "name": "JORF_20260906-205420.tar.gz",
+    "sha256": "c8ff0a5a915b776f2b6504213496587cf05a2860567917a216791b6c6c13eee9",
+    "bytes": 2266314,
+    "members": 3953
+   },
+   {
+    "name": "JORF_20260907-214720.tar.gz",
+    "sha256": "9b410c9b1689ceea5a3ebe1eb4426e1a30ad699d5df0ea4623f435b7e1e1899a",
+    "bytes": 4147262,
+    "members": 7498
+   },
+   {
+    "name": "JORF_20260908-012632.tar.gz",
+    "sha256": "fc4eb88ec81b4f8012eb84f04da61f38b0b530eaeb3f7f3849e476f29f90a398",
+    "bytes": 143517,
+    "members": 780
+   },
+   {
+    "name": "JORF_20260908-213244.tar.gz",
+    "sha256": "21715e56d27dafdcdcfbab2f1cffbf97f9b23ab781291ad83232ef4a686c5295",
+    "bytes": 3930247,
+    "members": 7609
+   },
+   {
+    "name": "JORF_20260909-003012.tar.gz",
+    "sha256": "1392c21d874be4f3a194e3e2be899511a701bd515263310ba96ffa32f609fa8d",
+    "bytes": 199116,
+    "members": 783
+   },
+   {
+    "name": "JORF_20260909-214416.tar.gz",
+    "sha256": "e57fac6bb683f93060bc4772af234a87fd5ad2f72cfc9344037d4123d70476e6",
+    "bytes": 5452119,
+    "members": 9209
+   },
+   {
+    "name": "JORF_20260910-002824.tar.gz",
+    "sha256": "7fda7a4499eb6800c1ef0d047fcbdcb29e15d56c837d65ebf696f3286746914b",
+    "bytes": 201773,
+    "members": 845
+   },
+   {
+    "name": "JORF_20260910-214601.tar.gz",
+    "sha256": "043f2a500d1a7d5c8c4b89bf64e9ff60ed9ae7ad871e596d9e814d53dd6ad814",
+    "bytes": 5584088,
+    "members": 8175
+   },
+   {
+    "name": "JORF_20260911-002839.tar.gz",
+    "sha256": "b9605f280d15c121d38cf2f1d1e2395ccdaf6e3127cdc7554afd0db62e054f39",
+    "bytes": 131413,
+    "members": 757
+   },
+   {
+    "name": "JORF_20260911-215706.tar.gz",
+    "sha256": "e1b85113bd960baff3e12cb32f0042f9e5b13231531b75a550eea47cad9768ca",
+    "bytes": 4618292,
+    "members": 11986
+   },
+   {
+    "name": "JORF_20260912-002553.tar.gz",
+    "sha256": "d129f7d3bbb17cdd217417479ae087a37f95a46e3cd39fccec4d590aaa9f1659",
+    "bytes": 123715,
+    "members": 700
+   },
+   {
+    "name": "JORF_20260912-213703.tar.gz",
+    "sha256": "e05dd6dff58bc179dfb4285fd1a9d6a46df9b70900c6471ddcdc0187bc12b879",
+    "bytes": 3910654,
+    "members": 6040
+   },
+   {
+    "name": "JORF_20260913-002329.tar.gz",
+    "sha256": "389fff146cc31068a61446fd34db895df5f0cf2042fa134ae7e3dd076c7faf76",
+    "bytes": 168755,
+    "members": 395
+   },
+   {
+    "name": "JORF_20260913-205506.tar.gz",
+    "sha256": "1969968294dfb6b5e8af44f8b549cdbc1e42c1a8062b3b3695eb930b59a6eb1d",
+    "bytes": 2335204,
+    "members": 5175
+   },
+   {
+    "name": "JORF_20260914-210916.tar.gz",
+    "sha256": "2531c86277ee9b13cc570f7149dd90c3e6542e93de4c939fec186948f130986a",
+    "bytes": 4350257,
+    "members": 10345
+   },
+   {
+    "name": "JORF_20260915-002144.tar.gz",
+    "sha256": "db3f2f2cf34306677cb752891b79dcb65cb0ecff1e7f4837859c803925827e84",
+    "bytes": 73021,
+    "members": 292
+   },
+   {
+    "name": "JORF_20260915-211944.tar.gz",
+    "sha256": "ee65efe1163faedd82cfa922a4ee74c56b161b2cf6acd4ab1a0596001e0a9185",
+    "bytes": 3673496,
+    "members": 5041
+   },
+   {
+    "name": "JORF_20260916-002552.tar.gz",
+    "sha256": "45b2a99fd2176f5039e777dac8a43010e100384c750db252030e13c6fb821385",
+    "bytes": 123163,
+    "members": 679
+   },
+   {
+    "name": "JORF_20260916-214544.tar.gz",
+    "sha256": "1a6fe075563204406bc3bc1ed50626d2011e16e95b720e690d868675129a274c",
+    "bytes": 3799036,
+    "members": 6239
+   },
+   {
+    "name": "JORF_20260917-002519.tar.gz",
+    "sha256": "006d3c9cb7ffd1ca3a84a1263d92601dd08f98ac73373e406291476c9a2e999f",
+    "bytes": 144220,
+    "members": 620
+   },
+   {
+    "name": "JORF_20260917-213733.tar.gz",
+    "sha256": "34d0e12e5367fce7db25ea332feb7ac5ea403e62cce2b50449c699dcb3938743",
+    "bytes": 4003280,
+    "members": 7003
+   },
+   {
+    "name": "JORF_20260918-002728.tar.gz",
+    "sha256": "2dbf542c6821974b47c02f842f7a273ef72c27288af8cc1049032a9ea4f551ee",
+    "bytes": 175717,
+    "members": 747
+   },
+   {
+    "name": "JORF_20260918-214701.tar.gz",
+    "sha256": "06b3cd356d1c48867052ec1414f3bd95bd0b87f06a4c734d00034b1f26e98125",
+    "bytes": 3674822,
+    "members": 7125
+   },
+   {
+    "name": "JORF_20260919-002738.tar.gz",
+    "sha256": "0dade4d45f82eb3f44f7f86389e7df8ce29afa63d7560bdbefa07539c0e0eb98",
+    "bytes": 183286,
+    "members": 779
+   },
+   {
+    "name": "JORF_20260919-214658.tar.gz",
+    "sha256": "f33df4507b04e89261558361111643a2951952511782d29313d0663611ec6efd",
+    "bytes": 5268992,
+    "members": 7641
+   },
+   {
+    "name": "JORF_20260920-002436.tar.gz",
+    "sha256": "ecc1d4b2e4633558b245a34c995e6c5e664e4c989e223fab1a63effaf1d325b7",
+    "bytes": 193508,
+    "members": 572
+   },
+   {
+    "name": "JORF_20260920-205543.tar.gz",
+    "sha256": "6c0c770a930d7fc90cd44ff361e467a187007cc213eb76dc5394717c6edbb7af",
+    "bytes": 2566811,
+    "members": 4702
+   },
+   {
+    "name": "JORF_20260921-220149.tar.gz",
+    "sha256": "75535666e5b2b32dc5b8e0fe99a5d1d9c5fed58c9974ddeaad1c492935798640",
+    "bytes": 9428701,
+    "members": 23875
+   },
+   {
+    "name": "JORF_20260922-002206.tar.gz",
+    "sha256": "6ee12efb467af7cd6dcd85d09c733eee730076527f146807a2c746eee45cbbe9",
+    "bytes": 89077,
+    "members": 363
+   },
+   {
+    "name": "JORF_20260922-214912.tar.gz",
+    "sha256": "0ad72a13696cd05c468f26940bcb08b3bcb61ff60f0cc8c16cb1d1c4c93a105f",
+    "bytes": 4798903,
+    "members": 15782
+   },
+   {
+    "name": "JORF_20260923-002448.tar.gz",
+    "sha256": "6b448406b679119ca06b4945c14d21ae83f61a3a62574ce2de2b94f619d5797e",
+    "bytes": 178408,
+    "members": 682
+   },
+   {
+    "name": "JORF_20260923-215642.tar.gz",
+    "sha256": "4134179ca5fb536b57fdfdd6212a337fb03c0a5b9137570ea4aff3037b73ddac",
+    "bytes": 5716922,
+    "members": 10453
+   },
+   {
+    "name": "JORF_20260924-004514.tar.gz",
+    "sha256": "3c897fa2e5724e202fb90e544f164f94640d3f53273a2b0cc17658b57b7ecd7f",
+    "bytes": 151009,
+    "members": 627
+   },
+   {
+    "name": "JORF_20260924-214040.tar.gz",
+    "sha256": "f93e1de8910d889c9a7454656ea578c07e998d674f0cb3a71662a8e0e9aa95e3",
+    "bytes": 4956564,
+    "members": 8655
+   },
+   {
+    "name": "JORF_20260925-002729.tar.gz",
+    "sha256": "2e4983e44286df7bcc3de9f2b8df7e0bc1f6e36e84fdc49b8c1f6b914e431a3c",
+    "bytes": 234561,
+    "members": 748
+   },
+   {
+    "name": "JORF_20260925-214830.tar.gz",
+    "sha256": "88079206ff2a1dea543ef4e2bfb1ceeb5372b8086ebb4224837a8fe418902c13",
+    "bytes": 5242031,
+    "members": 10475
+   },
+   {
+    "name": "JORF_20260926-002511.tar.gz",
+    "sha256": "883c681321f3cf4257aba199cda0ec6a7927ad0f02cb168384b3e0624921febf",
+    "bytes": 167506,
+    "members": 649
+   },
+   {
+    "name": "JORF_20260926-210736.tar.gz",
+    "sha256": "fb26d0e97fe038f27b526e2ff63a433f3f1eedb7702a1f8a547ea07234388be9",
+    "bytes": 3957975,
+    "members": 6987
+   },
+   {
+    "name": "JORF_20260927-002256.tar.gz",
+    "sha256": "0c36ab37d8e7bfc65a0615f4bcbb232637baf4074d62703f81baac89ef862a41",
+    "bytes": 111017,
+    "members": 516
+   },
+   {
+    "name": "JORF_20260927-204937.tar.gz",
+    "sha256": "6ecc0ae875dd6e100591750e0f9d182384e9fe51eeaa7b234f7ed4113a8c456f",
+    "bytes": 2677500,
+    "members": 4831
+   },
+   {
+    "name": "JORF_20260928-211225.tar.gz",
+    "sha256": "6c97df5ac91796ccdcc191be58aaafd53138979e1bb1368c18ac2a2f6e614696",
+    "bytes": 3254049,
+    "members": 5467
+   },
+   {
+    "name": "JORF_20260929-002340.tar.gz",
+    "sha256": "53ca0449cc7a9cdfbb535067309cafe3a6c36be3fa98fdc56dc840b32f7642ca",
+    "bytes": 130255,
+    "members": 450
+   },
+   {
+    "name": "JORF_20260929-213457.tar.gz",
+    "sha256": "754e0d2636bc001c2053cdc48666f4605affa39ecc27df263449d70d65b41597",
+    "bytes": 3844357,
+    "members": 3018
+   },
+   {
+    "name": "JORF_20260930-011706.tar.gz",
+    "sha256": "0f006f97250337977ad2ae5197942e9f607ec7404e9f85a027a9daa64393739c",
+    "bytes": 299419,
+    "members": 1043
+   },
+   {
+    "name": "JORF_20260930-215413.tar.gz",
+    "sha256": "dc4f205b4fa3c4696f929b52c05906feb3af618573e9f8e47926c26b1fc8254f",
+    "bytes": 7448695,
+    "members": 13674
+   },
+   {
+    "name": "JORF_20261001-012453.tar.gz",
+    "sha256": "e164d57da6f60d7da6d04ebc010361b6a842db28721279b89ca8fc889c3d9e65",
+    "bytes": 316521,
+    "members": 457
+   },
+   {
+    "name": "JORF_20261001-105421.tar.gz",
+    "sha256": "de4f505fd5840fa25af1a345e0c921f94bda1f24c96537e0ae15d7fad05685c0",
+    "bytes": 31741,
+    "members": 42
+   },
+   {
+    "name": "JORF_20261001-214554.tar.gz",
+    "sha256": "99b6d064e10d0d4c1ccc7819b9c12e3cc554f45af63cd0a6b73b909432dd6f21",
+    "bytes": 5733782,
+    "members": 7557
+   },
+   {
+    "name": "JORF_20261002-023011.tar.gz",
+    "sha256": "a0846518706ac4b186f17bf9219c269c4c36cf49057961b3fab413925f5959f9",
+    "bytes": 263383,
+    "members": 818
+   },
+   {
+    "name": "JORF_20261002-214631.tar.gz",
+    "sha256": "a78e17baa78c4d5879292e8e87d0128395b55eb628dda455459806139be27623",
+    "bytes": 5471124,
+    "members": 6049
+   },
+   {
+    "name": "JORF_20261003-002921.tar.gz",
+    "sha256": "d4cfbcad5bdc48e70b25572f95a0892eb2aa02b32f6841284dea1cd0d53b00e5",
+    "bytes": 159260,
+    "members": 611
+   },
+   {
+    "name": "JORF_20261003-211138.tar.gz",
+    "sha256": "7d027a062d6e71f8124255de541ffaddf8b082d7c686b212f723c66c35bc8b69",
+    "bytes": 3765315,
+    "members": 4272
+   },
+   {
+    "name": "JORF_20261004-002313.tar.gz",
+    "sha256": "cdf3e7c928fa3de0a463ce4cb8bc3b47bfcf10a625b56066963afa1249b0319e",
+    "bytes": 79574,
+    "members": 211
+   },
+   {
+    "name": "JORF_20261004-204228.tar.gz",
+    "sha256": "31303fd860c73c1513915a7e01115da8197f491362798c173cbcf056be29fb23",
+    "bytes": 1852093,
+    "members": 2172
+   },
+   {
+    "name": "JORF_20261005-214539.tar.gz",
+    "sha256": "f44ca6b40f262f4fdf31b21e199a9135a6b63486f8337f857e7c490f5eaf04c7",
+    "bytes": 4896010,
+    "members": 5904
+   },
+   {
+    "name": "JORF_20261006-002605.tar.gz",
+    "sha256": "3f6eb6cecc6fe0e45340d947e9ab8698731ae6dce229365a8488d0354dbba2ef",
+    "bytes": 119656,
+    "members": 443
+   },
+   {
+    "name": "JORF_20261006-212213.tar.gz",
+    "sha256": "211432cff38c328d7be492c48d5a566fd576c6069976f9fa92b2308ebc515d74",
+    "bytes": 4050371,
+    "members": 3802
+   },
+   {
+    "name": "JORF_20261007-002326.tar.gz",
+    "sha256": "d523196c8755b6641bc3d5669db2fe8c89d1b1b6d4a28d5b3c4df7dbca95a994",
+    "bytes": 119901,
+    "members": 326
+   },
+   {
+    "name": "JORF_20261007-211514.tar.gz",
+    "sha256": "3ebcccff5bbb53a9b7be9d80dd30accfb3710d29535d55fae04f17ca17b1fb84",
+    "bytes": 2804972,
+    "members": 2766
+   },
+   {
+    "name": "JORF_20261008-002250.tar.gz",
+    "sha256": "86ad22d5ece7d0c1e3139448cfe4af8a8ebbeb26c91f4f266db2888f92f42bc5",
+    "bytes": 128930,
+    "members": 258
+   },
+   {
+    "name": "JORF_20261008-213853.tar.gz",
+    "sha256": "23ae531e734bd313fae767e067344655268a541a6621dc53be06ee6649ae51f5",
+    "bytes": 3179884,
+    "members": 2974
+   },
+   {
+    "name": "JORF_20261009-003010.tar.gz",
+    "sha256": "587cbb6d4ccac54e20c5d4a4f5da8c717c1acf4f253940daa6fd4a300277f16c",
+    "bytes": 228273,
+    "members": 711
+   },
+   {
+    "name": "JORF_20261009-214339.tar.gz",
+    "sha256": "0703328954718a768926d9448c2167bb3cacd4ddaccdbecf8305b8a312de608b",
+    "bytes": 5814306,
+    "members": 8460
+   },
+   {
+    "name": "JORF_20261010-002617.tar.gz",
+    "sha256": "652798c004800c0ced2bb7b14f101178237344906fc9ef04b0a2aabe467779cf",
+    "bytes": 141395,
+    "members": 458
+   },
+   {
+    "name": "JORF_20261010-211641.tar.gz",
+    "sha256": "72464c4c2e8f7d3ec6d676c9af00e1f89deaced31d9a63d4dab20fa0cef32f8e",
+    "bytes": 3297564,
+    "members": 2587
+   },
+   {
+    "name": "JORF_20261011-002353.tar.gz",
+    "sha256": "f2e6b7f8de14634ab6a6b1246ed11b94a0e4f6d4fa6c97fa2b1509727d299116",
+    "bytes": 177870,
+    "members": 398
+   },
+   {
+    "name": "JORF_20261011-210356.tar.gz",
+    "sha256": "a297dd497bdbc671168c18465b819279a19a6ba2147779bc96c9013378d8dca9",
+    "bytes": 3495366,
+    "members": 4543
+   },
+   {
+    "name": "JORF_20261012-212534.tar.gz",
+    "sha256": "02fb0c9d89f05b5127417f3d9650c537efc60a4c29c8fbcec5593c2b61f72206",
+    "bytes": 5918331,
+    "members": 8507
+   },
+   {
+    "name": "JORF_20261013-002011.tar.gz",
+    "sha256": "f52ec6e6c7a6b53ad95371c5bf870c36571a99f5e7430a42a33f17770e7d1eab",
+    "bytes": 63365,
+    "members": 187
+   },
+   {
+    "name": "JORF_20261013-212750.tar.gz",
+    "sha256": "36299341ecf4260fff46de20e1c7102b87ea598b95b5928bb5ee5c128738d667",
+    "bytes": 2078675,
+    "members": 1276
+   },
+   {
+    "name": "JORF_20261014-002349.tar.gz",
+    "sha256": "fffc5bca34102d3007534f87d69b912d5aab27f111b68e530edaba759fbc3861",
+    "bytes": 87160,
+    "members": 404
+   },
+   {
+    "name": "JORF_20261014-214049.tar.gz",
+    "sha256": "3d67959858b1af3c86028562599e2f12c0ad2514a15ef19ce133229bc3fa361d",
+    "bytes": 3958410,
+    "members": 4808
+   },
+   {
+    "name": "JORF_20261015-004729.tar.gz",
+    "sha256": "2e94d37503380170ac594f07a1da08a5a33e852de887cf34cc80283bf2d2037f",
+    "bytes": 155747,
+    "members": 649
+   },
+   {
+    "name": "JORF_20261015-122925.tar.gz",
+    "sha256": "5e42af360eae29d9d54f2fa8cb61a90e5370230eba186488b66d702d21428ac6",
+    "bytes": 79983,
+    "members": 127
+   },
+   {
+    "name": "JORF_20261015-214025.tar.gz",
+    "sha256": "8235a8a756fbbb55f12af634de6712adeb0014ab1a5845d474d7d5c2e52296a1",
+    "bytes": 5021536,
+    "members": 6046
+   },
+   {
+    "name": "JORF_20261016-002645.tar.gz",
+    "sha256": "ee6a70fd34770c73a4e6c2cd1b9da0c94420bbec0d7465e656ef306aeb67d935",
+    "bytes": 170420,
+    "members": 500
+   },
+   {
+    "name": "JORF_20261016-213852.tar.gz",
+    "sha256": "a32408eb1b6201ccae262f5af51f0a708e7f02049654dd73dc85126778694999",
+    "bytes": 5262959,
+    "members": 5502
+   },
+   {
+    "name": "JORF_20261017-002729.tar.gz",
+    "sha256": "cc6a68c8725cd34fe6ab6630b3f601c2352cc16cb2d57053c33510c54ccaa45c",
+    "bytes": 207218,
+    "members": 618
+   },
+   {
+    "name": "JORF_20261017-211053.tar.gz",
+    "sha256": "b76b6ad3fdcf9fb4e31101abe22e50f8d2d50c6db18353573d2ff2904632ac78",
+    "bytes": 4526313,
+    "members": 4568
+   },
+   {
+    "name": "JORF_20261018-002333.tar.gz",
+    "sha256": "7366742e9e86851cb3fd827ab17fbed5cd30cfabda6629de5d4c7a7b2407e4c3",
+    "bytes": 124020,
+    "members": 389
+   },
+   {
+    "name": "JORF_20261018-205213.tar.gz",
+    "sha256": "10c20c8fa0d501d7508844ea9efe21e7976445901e452cc4e70771f6f8f50aa4",
+    "bytes": 2868801,
+    "members": 2722
+   },
+   {
+    "name": "JORF_20261019-211152.tar.gz",
+    "sha256": "408db9afab64ce7c3c9e72419aee725eaf6ec98194af71f09848f50397693ec0",
+    "bytes": 3299562,
+    "members": 4644
+   },
+   {
+    "name": "JORF_20261020-002430.tar.gz",
+    "sha256": "cf3b62dde070a39b97992fdf8e35acb8e6706c3fa7dc8457061dad0c2d6bac33",
+    "bytes": 130324,
+    "members": 414
+   },
+   {
+    "name": "JORF_20261020-214622.tar.gz",
+    "sha256": "eda20f1c0e5aac48e485705485c37300a1126d815f49a124b00ce2ea3d676b60",
+    "bytes": 4348642,
+    "members": 4908
+   },
+   {
+    "name": "JORF_20261021-005928.tar.gz",
+    "sha256": "331b65f044018aea3e7eed11320110cf9069be9d475ef8013c8ed722333b06b5",
+    "bytes": 156153,
+    "members": 515
+   },
+   {
+    "name": "JORF_20261021-122932.tar.gz",
+    "sha256": "c201034a0c6b641090693746e6ac2efeafcd15a3b3c5799c6a819d093d8229ff",
+    "bytes": 78242,
+    "members": 53
+   },
+   {
+    "name": "JORF_20261021-130408.tar.gz",
+    "sha256": "50bacc6063b6c0389c2a9bf2f542f20d03dfbb7b9b8f11a8b9da2868891bea76",
+    "bytes": 78253,
+    "members": 53
+   },
+   {
+    "name": "JORF_20261021-213023.tar.gz",
+    "sha256": "4549d42049e63bf485beac07b36b26baf988084be45023cab62fefe7ff15c2bd",
+    "bytes": 4353229,
+    "members": 4106
+   },
+   {
+    "name": "JORF_20261022-010121.tar.gz",
+    "sha256": "7682acb50a49b230a9f5a62d5cef9cd8513a6a4735690e019aa8d6e4ab59605b",
+    "bytes": 169456,
+    "members": 600
+   },
+   {
+    "name": "JORF_20261022-214745.tar.gz",
+    "sha256": "f84934aa2bad613b737e0ff213523d7009fbde906336fc061521c925467f01b4",
+    "bytes": 4514501,
+    "members": 5611
+   },
+   {
+    "name": "JORF_20261023-014741.tar.gz",
+    "sha256": "c7e39100a55bc1b971ed20333003697add734c04c9e87225b9950c425b576cd7",
+    "bytes": 231711,
+    "members": 600
+   }
+  ]
+ },
+ "rectificatifs_all": 154,
+ "rectificatifs_target": [
+  {
+   "id": "JORFTEXT000054125097",
+   "num": "2025-1403",
+   "nor": "CPPX2521641Z",
+   "num_parution": "0120",
+   "date_publi": "2026-05-23",
+   "origine_publi": "JORF n°0120 du 23 mai 2026",
+   "titrefull": "LOI n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026 (rectificatif)",
+   "archive": "JORF_20260523-002456.tar.gz",
+   "sha256": "684c09a9c5ea36861f926c74a4bd83d4f9811dabf281b33aa9e65732a90326ba"
+  },
+  {
+   "id": "JORFTEXT000054969274",
+   "num": "2026-103",
+   "nor": "CPPX2524517Z",
+   "num_parution": "0237",
+   "date_publi": "2026-10-10",
+   "origine_publi": "JORF n°0237 du 10 octobre 2026",
+   "titrefull": "LOI n° 2026-103 du 19 février 2026 de finances pour 2026 (rectificatif)",
+   "archive": "JORF_20261010-002617.tar.gz",
+   "sha256": "1074b26d02316ecf995d542690da959dc24e3c5a9f6d119b0d3b79244fc4cb72"
+  }
+ ],
+ "articles": [
+  {
+   "id": "JORFARTI000054125098",
+   "text_cid": "JORFTEXT000054125097",
+   "title": "LOI n° 2025-1403 du 30 décembre 2025 de financement de la sécurité sociale pour 2026 (rectificatif)",
+   "archive": "JORF_20260523-002456.tar.gz",
+   "sha256": "c250d8f8fd0faf8162a3c68d129830504ec47fcc931b594c360227f86dadd532",
+   "body": "Rectificatif au Journal officiel du 31 décembre 2025, texte n° 1 :\n- au II de l'article 18, au lieu de : « loi n° 2025-1403 du 30 décembre 2025 de finances pour 2026. », lire : « loi n° 2026-103 du 19 février 2026 de finances pour 2026. » ;\n- au b et au c du 4° du V de l'article 99, au lieu de : « après le mot : “enfant” », lire : « après la première occurrence du mot : “enfant” » ;\n- au 6° du V de l'article 99, au lieu de : « après le mot : “travail” », lire : « après la première occurrence du mot : “travail” »."
+  },
+  {
+   "id": "JORFARTI000054969275",
+   "text_cid": "JORFTEXT000054969274",
+   "title": "LOI n° 2026-103 du 19 février 2026 de finances pour 2026 (rectificatif)",
+   "archive": "JORF_20261010-002617.tar.gz",
+   "sha256": "18ef48d3573da0f95b0194b3cab2fc3089c9cd4a74108a1ce58ae48438966ec7",
+   "body": "Rectificatif au Journal officiel du 20 février 2026, texte n° 1 :\nAu a du 4° du I de l'article 198, au lieu de : « L. 2122-8 », lire : « L. 2122-28 »."
+  }
+ ]
+}

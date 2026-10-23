@@ -1,0 +1,435 @@
+{
+ "note": "LEGI state = dump 13.07.2025 + increments to LEGI_20261021-213023 (legi.sqlite of the 22.10 session, read-only), then LEGI_20261022-214745 (latest on 23.10.2026 08:23) checked separately: it carries no version of CGI 199 sexdecies, 1600, CSS L136-4, L162-23-8, nor of décret 2008-824 (JORFTEXT000019354799), and its deletion list names none of them.",
+ "legi_last_increment": {
+  "name": "LEGI_20261022-214745.tar.gz",
+  "sha256": "b231b37e62830b528f13b45cdde0eaf379bffcbb99896e25c5b64aba2a67662d",
+  "bytes": 3169140,
+  "touches_targets": false
+ },
+ "legi_last_archive_in_db": [
+  "LEGI_20261021-213023.tar.gz",
+  "8c25fba5a1c0877e03a9a92d30dd194fe9f285aaf0a51b8605e591e56dc04aae"
+ ],
+ "checks": [
+  {
+   "finding": "A2",
+   "num": "199 sexdecies",
+   "id": "LEGIARTI000051212983",
+   "etat": "MODIFIE",
+   "debut": "2025-02-16",
+   "fin": "2026-02-21",
+   "xml_sha256": "8844f5b3b9a67cbef94b52bb135215e43469bb430a840549dad8a5e36d9b56ec",
+   "defect_present": false,
+   "expected_present": false,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000051168007",
+     "numtexte": "2025-127",
+     "datesignatexte": "2025-02-14",
+     "num": "11"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000051168007",
+     "numtexte": "2025-127",
+     "datesignatexte": "2025-02-14",
+     "num": "4"
+    }
+   ]
+  },
+  {
+   "finding": "A2",
+   "num": "199 sexdecies",
+   "id": "LEGIARTI000053543952",
+   "etat": "MODIFIE",
+   "debut": "2026-02-21",
+   "fin": "2026-06-14",
+   "xml_sha256": "a93df320483e15edb654de3bf7290557768b9ceac6d604e4c9cf9a6adfd77be5",
+   "defect_present": true,
+   "expected_present": false,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053508155",
+     "numtexte": "2026-103",
+     "datesignatexte": "2026-02-19",
+     "num": "29"
+    }
+   ]
+  },
+  {
+   "finding": "A2",
+   "num": "199 sexdecies",
+   "id": "LEGIARTI000054251333",
+   "etat": "VIGUEUR",
+   "debut": "2026-06-14",
+   "fin": "2999-01-01",
+   "xml_sha256": "da78bba5f185849d53ecbfdbf3296507ebeb88afe538a3e64590414bf7ab7747",
+   "defect_present": true,
+   "expected_present": false,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000054245251",
+     "numtexte": "2026-492",
+     "datesignatexte": "2026-06-12",
+     "num": "12"
+    }
+   ]
+  },
+  {
+   "finding": "B1",
+   "num": "L136-4",
+   "id": "LEGIARTI000053282498",
+   "etat": "MODIFIE",
+   "debut": "2025-12-31",
+   "fin": "2026-02-21",
+   "xml_sha256": "eb387f227fa3ef2cc92d7c68f896e0d9a3928ebaf13986d362b2fc49f6afab39",
+   "defect_present": true,
+   "expected_present": false,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "18"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "19"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "25"
+    }
+   ]
+  },
+  {
+   "finding": "B1",
+   "num": "L136-4",
+   "id": "LEGIARTI000053284767",
+   "etat": "VIGUEUR",
+   "debut": "2026-02-21",
+   "fin": "2999-01-01",
+   "xml_sha256": "efdc0d6dc1cc4dc4a60c330e0312d3a0d05f7f97a32e24f2eec93aa382943b79",
+   "defect_present": true,
+   "expected_present": false,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "18"
+    }
+   ]
+  },
+  {
+   "finding": "B1b",
+   "num": "L136-4",
+   "id": "LEGIARTI000053282498",
+   "etat": "MODIFIE",
+   "debut": "2025-12-31",
+   "fin": "2026-02-21",
+   "xml_sha256": "eb387f227fa3ef2cc92d7c68f896e0d9a3928ebaf13986d362b2fc49f6afab39",
+   "defect_present": true,
+   "expected_present": true,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "18"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "19"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "25"
+    }
+   ]
+  },
+  {
+   "finding": "B1b",
+   "num": "L136-4",
+   "id": "LEGIARTI000053284767",
+   "etat": "VIGUEUR",
+   "debut": "2026-02-21",
+   "fin": "2999-01-01",
+   "xml_sha256": "efdc0d6dc1cc4dc4a60c330e0312d3a0d05f7f97a32e24f2eec93aa382943b79",
+   "defect_present": true,
+   "expected_present": true,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "18"
+    }
+   ]
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000051217786",
+   "etat": "MODIFIE",
+   "debut": "2025-02-16",
+   "fin": "2026-01-01",
+   "xml_sha256": "7d8368f158e87143f73c5082eda73ce1ca512ac278f64c059bdc971751589a83",
+   "defect_present": null,
+   "expected_present": false,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000042753580",
+     "numtexte": "2020-1721",
+     "datesignatexte": "2020-12-29",
+     "num": "8"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000046845631",
+     "numtexte": "2022-1726",
+     "datesignatexte": "2022-12-30",
+     "num": "55"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000051168007",
+     "numtexte": "2025-127",
+     "datesignatexte": "2025-02-14",
+     "num": "125"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000051168007",
+     "numtexte": "2025-127",
+     "datesignatexte": "2025-02-14",
+     "num": "77"
+    }
+   ]
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000048861263",
+   "etat": "MODIFIE",
+   "debut": "2026-01-01",
+   "fin": "2026-02-21",
+   "xml_sha256": "76c7f849f408391ce76d8e20b3956ade7551132bcabcf1885e1d5b6ca7e39eff",
+   "defect_present": null,
+   "expected_present": false,
+   "liens_modifie": []
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000053578862",
+   "etat": "MODIFIE",
+   "debut": "2026-02-21",
+   "fin": "2026-03-01",
+   "xml_sha256": "391ca28fbea2530d05721a7ce324f472843ee1b7abb5eb3322b82dda1fbf4ba9",
+   "defect_present": null,
+   "expected_present": true,
+   "liens_modifie": []
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000053562172",
+   "etat": "ABROGE_DIFF",
+   "debut": "2026-03-01",
+   "fin": "2027-01-01",
+   "xml_sha256": "07c945919d93df55ef04429b43f7b1b1e93d195c68bb2e34222ddf3d0e83a726",
+   "defect_present": null,
+   "expected_present": true,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000021557902",
+     "numtexte": "2009-1673",
+     "datesignatexte": "2009-12-30",
+     "num": "3"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000051168007",
+     "numtexte": "2025-127",
+     "datesignatexte": "2025-02-14",
+     "num": "125"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053508155",
+     "numtexte": "2026-103",
+     "datesignatexte": "2026-02-19",
+     "num": "69"
+    }
+   ]
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000049534935",
+   "etat": "VIGUEUR_DIFF",
+   "debut": "2027-01-01",
+   "fin": "2028-01-01",
+   "xml_sha256": "300a77695a198626265304fa6923f59fa46856aa0d0000cfd0c5a808ea8b12d1",
+   "defect_present": null,
+   "expected_present": false,
+   "liens_modifie": []
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000051242816",
+   "etat": "VIGUEUR_DIFF",
+   "debut": "2028-01-01",
+   "fin": "2029-01-01",
+   "xml_sha256": "4d9dc88fd7be7bf5ffbdf7aa686a9e228d43f8a14030efad055a2a8df4be6220",
+   "defect_present": null,
+   "expected_present": true,
+   "liens_modifie": []
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000051249045",
+   "etat": "VIGUEUR_DIFF",
+   "debut": "2029-01-01",
+   "fin": "2030-01-01",
+   "xml_sha256": "347e31f9267582b8468e299586ba99a132d1d6a67c699db77b91002bdc8412c3",
+   "defect_present": null,
+   "expected_present": true,
+   "liens_modifie": []
+  },
+  {
+   "finding": "B2",
+   "num": "1600",
+   "id": "LEGIARTI000051248679",
+   "etat": "VIGUEUR_DIFF",
+   "debut": "2030-01-01",
+   "fin": "2999-01-01",
+   "xml_sha256": "dc9e785da8e725740558b070b8d26dd9b0173ef0412b09676277cb1e475b58c4",
+   "defect_present": null,
+   "expected_present": true,
+   "liens_modifie": []
+  },
+  {
+   "finding": "B3",
+   "num": "L162-23-8",
+   "id": "LEGIARTI000048702426",
+   "etat": "MODIFIE",
+   "debut": "2024-01-01",
+   "fin": "2026-01-01",
+   "xml_sha256": "760989fc6cb27115f3ca8676bb41c239ce55323c4c5ea193f86a9dc0880d64a0",
+   "defect_present": true,
+   "expected_present": null,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000048668665",
+     "numtexte": "2023-1250",
+     "datesignatexte": "2023-12-26",
+     "num": "49"
+    }
+   ]
+  },
+  {
+   "finding": "B3",
+   "num": "L162-23-8",
+   "id": "LEGIARTI000053283299",
+   "etat": "ABROGE_DIFF",
+   "debut": "2026-01-01",
+   "fin": "2027-09-01",
+   "xml_sha256": "942f06e37fd3247d4301823a601a84b8b8f7ecc26ada54d6136b30d1db1ab1a1",
+   "defect_present": false,
+   "expected_present": null,
+   "liens_modifie": [
+    {
+     "typelien": "CREE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000031663208",
+     "numtexte": "2015-1702",
+     "datesignatexte": "2015-12-21",
+     "num": "78"
+    },
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000053226384",
+     "numtexte": "2025-1403",
+     "datesignatexte": "2025-12-30",
+     "num": "72"
+    }
+   ]
+  },
+  {
+   "finding": "B3",
+   "num": "L162-23-8",
+   "id": "LEGIARTI000048971734",
+   "etat": "VIGUEUR_DIFF",
+   "debut": "2027-09-01",
+   "fin": "2999-01-01",
+   "xml_sha256": "d3b5503afbca361f92f9407c63127fcb72546b3796a0e4d8a433504d7f953483",
+   "defect_present": true,
+   "expected_present": null,
+   "liens_modifie": [
+    {
+     "typelien": "MODIFIE",
+     "sens": "cible",
+     "cidtexte": "JORFTEXT000047055162",
+     "numtexte": "2023-29",
+     "datesignatexte": "2023-01-25",
+     "num": "1"
+    }
+   ]
+  }
+ ],
+ "b4_recheck_20261023": {
+  "note": "B4 rechecked against LEGI_20261022-214745: the increment re-emits the three CIBS L312-37 versions (LEGIARTI000053593049 2026-02-01, LEGIARTI000053592986 2026-08-01 now ABROGE_DIFF, LEGIARTI000053593023 2027-02-01); none of them carries a MODIFIE/CREE link to loi 2026-103. CGI 1679 A (LEGIARTI000053278878) and CGI 1600 (LEGIARTI000053578862) are not in the increment; their state is that of LEGI_20261021-213023 (no MODIFIE/CREE link).",
+  "amounts": {
+   "LEGIARTI000053593049": "19,24 €",
+   "LEGIARTI000053592986": "19,24 €",
+   "LEGIARTI000053593023": "18,84 €"
+  }
+ }
+}
