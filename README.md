@@ -140,8 +140,14 @@ renvois complexes, renumérotation du CIBS).
 
 ## Qui a été informé
 
-Les services concernés seront informés en même temps que la publication de ce dossier. La liste
-des destinataires, avec la date et le canal, sera ajoutée ici après l'envoi.
+Le 23 octobre 2026, par courrier électronique :
+- la Direction de la législation fiscale (DGFiP), avec copie au Secrétariat général du
+  Gouvernement — article 199 sexdecies du CGI et erreurs de citation (A2 à A7) ;
+- les rapporteurs généraux des commissions des finances de l'Assemblée nationale et du Sénat —
+  proposition de rédaction pour l'article 199 sexdecies ;
+- la DILA, avec copie à la DGFiP (fiscalité locale) — points de consolidation (B1 à B4).
+
+D'autres services seront ajoutés ici à mesure des envois.
 
 ## Reproduire
 
