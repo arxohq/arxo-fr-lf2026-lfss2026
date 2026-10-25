@@ -138,6 +138,25 @@ renvois complexes, renumérotation du CIBS).
 - Nous ne prétendons pas connaître l'intention du législateur. Quand le texte et une intention
   probable divergent, nous le disons et laissons la question à ceux qui peuvent y répondre.
 
+## Registre
+
+Les constats de ce dossier inscrits au [registre des constats d'Arxo](https://arxo.io/findings/)
+(données : dépôt GitHub arxohq/arxo-findings). La fiche du registre indique l'état à jour, les
+destinataires informés et, le cas échéant, la correction officielle.
+
+| Code | Registre | Disposition |
+|---|---|---|
+| A1 | [ARXO-2026-0013](https://arxo.io/findings/ARXO-2026-0013/) | LFSS 2026, art. 18, II — corrigé par le rectificatif du 23 mai 2026 |
+| A8 | [ARXO-2026-0014](https://arxo.io/findings/ARXO-2026-0014/) | LFSS 2026, art. 99, V — corrigé par le rectificatif du 23 mai 2026 |
+| A2 | [ARXO-2026-0015](https://arxo.io/findings/ARXO-2026-0015/) | LF 2026, art. 29, 2° — CGI, art. 199 sexdecies |
+| A3 | [ARXO-2026-0016](https://arxo.io/findings/ARXO-2026-0016/) | LF 2026, art. 183, II |
+| A4 | [ARXO-2026-0017](https://arxo.io/findings/ARXO-2026-0017/) | LFSS 2026, art. 12, II, 1° |
+| A5 | [ARXO-2026-0018](https://arxo.io/findings/ARXO-2026-0018/) | LFSS 2026, art. 102, II, 3° |
+| A6 | [ARXO-2026-0019](https://arxo.io/findings/ARXO-2026-0019/) | LF 2026, art. 81, V |
+| B1 | [ARXO-2026-0020](https://arxo.io/findings/ARXO-2026-0020/) | CSS, art. L. 136-4, IV (Légifrance) |
+| B2 | [ARXO-2026-0021](https://arxo.io/findings/ARXO-2026-0021/) | CGI, art. 1600, version 2027 (Légifrance) |
+| B3 | [ARXO-2026-0022](https://arxo.io/findings/ARXO-2026-0022/) | CSS, art. L. 162-23-8, version du 1er septembre 2027 (Légifrance) |
+
 ## Qui a été informé
 
 Le 23 octobre 2026, par courrier électronique :
@@ -187,6 +206,7 @@ notées ici.
 ## Historique
 
 - 2026-10-23 — première publication.
+- 2026-10-25 — registre : identifiants de dix constats.
 
 ## Licence
 
