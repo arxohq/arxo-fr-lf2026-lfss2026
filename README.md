@@ -68,7 +68,7 @@ Détail, identifiants et empreintes : [data/findings.csv](data/findings.csv).
 | B2 | CGI 1600, version 2027 | insertion de LF art. 135, VI, A absente | ouvert (consolidation) |
 | B3 | CSS L. 162-23-8, version 01/09/2027 | changements de LFSS art. 72, I, 5° absents | ouvert (consolidation) |
 | B1 | CSS L. 136-4, IV | « déterminés articles », « définiaux » | ouvert (consolidation) |
-| B4 | CGI 1679 A, CGI 1600, CIBS L. 312-37 | lien « Modifié par » absent ; texte juste | ouvert (métadonnées) |
+| B4 | CIBS L. 312-37, version du 01/02/2026 au 01/08/2026 | lien « Modifié par » vers LF art. 71 absent ; texte juste | ouvert (métadonnées) ; réduit le 26/10/2026 |
 | A1 | LFSS art. 18, II | loi de finances citée sous le numéro de la LFSS | corrigé le 23/05/2026 |
 | A8 | LFSS art. 99, V, 4°, b et c ; 6° | « après le mot » au lieu de « après la première occurrence du mot » | corrigé le 23/05/2026 |
 | A3 | LF art. 183, II | « loi n° 2020-1721 du 9 décembre 2020 » (29 décembre) | ouvert (citation) |
@@ -203,10 +203,21 @@ empreintes : [data/rectificatifs-jorf-20251231-20261023.json](data/rectificatifs
 Si vous trouvez une erreur dans ce dossier, écrivez à hi@arxo.io. Les corrections seront
 notées ici.
 
+- 2026-10-26 — **B4 réduit à une version.** Quatre des cinq versions citées le 23 octobre ont bien
+  un lien vers la loi qui les modifie : CGI 1679 A (LEGIARTI000053278878), CGI 1600
+  (LEGIARTI000053578862) et CIBS L. 312-37 (LEGIARTI000053592986, LEGIARTI000053593023). Dans le
+  XML LEGI, ce lien est de type MODIFIE (1679 A) ou MODIFICATION (les trois autres) ; notre contrôle
+  ne lisait pas les liens MODIFICATION et a aussi manqué celui de 1679 A. La DILA nous l'a signalé
+  le 26 octobre pour les deux versions de L. 312-37. Reste la version de L. 312-37 du 1er février
+  au 1er août 2026 (LEGIARTI000053593049) : aucun lien vers la loi
+  n° 2026-103 depuis sa première diffusion (`LEGI_20260227-215222`) jusqu'à `LEGI_20261025-211638`.
+  Archives et empreintes : [data/sources.sha256](data/sources.sha256).
+
 ## Historique
 
 - 2026-10-23 — première publication.
 - 2026-10-25 — registre : identifiants de dix constats.
+- 2026-10-26 — B4 réduit à une version (voir Corrections).
 
 ## Licence
 

@@ -5,7 +5,14 @@
 ## LEGI (consolidation ; ce n'est pas un texte authentique)
 f862b4a2238e11ec3c48ec70f3b1c68bac0bb1985907841666b98608653d4eca  Freemium_legi_global_20250713-140000.tar.gz  https://echanges.dila.gouv.fr/OPENDATA/LEGI/  (1 171 027 316 octets)
 #   473 incréments quotidiens LEGI_20250712-211706 … LEGI_20261021-213023 : empreintes, tailles, nombre de fichiers et de suppressions dans raw/legi-archives.tsv
-b231b37e62830b528f13b45cdde0eaf379bffcbb99896e25c5b64aba2a67662d  LEGI_20261022-214745.tar.gz  dernier incrément au 23/10/2026 ; ne modifie aucun des articles des constats (legi-check-20261022.json)
+b231b37e62830b528f13b45cdde0eaf379bffcbb99896e25c5b64aba2a67662d  LEGI_20261022-214745.tar.gz  dernier incrément au 23/10/2026 ; ne modifie aucun des articles des constats A2 et B1–B3 (legi-check-20261022.json) ; rediffuse les trois versions de CIBS L. 312-37 de B4
+# Vérification de B4 (26/10/2026) :
+18d768c28a21d927f7c113b87414294a70cbe8d7cfe113182ee4390a378bcaad  LEGI_20260227-215222.tar.gz  première diffusion de LEGIARTI000053593049, LEGIARTI000053592986 et LEGIARTI000053593023 (CIBS L. 312-37)
+f83711ec796c368087280e9ef699f20cf57a686284f3f7956a75df329d5d5f6b  LEGI_20260702-223445.tar.gz  dernière diffusion avant le 22/10/2026 de LEGIARTI000053278878 (CGI 1679 A) : lien MODIFIE vers la loi n° 2025-1403, art. 39
+a972e393abd7f78fbd989301009f6c41420de98240b59f399a5012e93f23ef3d  LEGI_20260708-215132.tar.gz  dernière diffusion avant le 22/10/2026 de LEGIARTI000053578862 (CGI 1600) : lien MODIFICATION vers la loi n° 2026-103, art. 135
+edf0a051ba3ae4d2f38d256772927a77f6ce3365b40ff35710a9bb5443fad0ef  LEGI_20261023-215041.tar.gz  ne modifie pas CIBS L. 312-37
+1172b92e55afceac413b9a11f25b6d53b5f9cc86638a1d77683f67e27fb4295a  LEGI_20261024-214209.tar.gz  ne modifie pas CIBS L. 312-37
+fc7151fe3a42e197751392536eda7a4724f3cae645d9a4db2f95c0c21ca2cd01  LEGI_20261025-211638.tar.gz  ne modifie pas CIBS L. 312-37
 
 ## JORF (textes publiés, XML de la DILA ; édition électronique, pas le JO authentique en PDF)
 d96fc1758b86262ccdf06eac1e9db81d62daaa006817170ac29d48a5618d6d8a  JORF_20251231-020917.tar.gz  https://echanges.dila.gouv.fr/OPENDATA/JORF/  (JO n° 0306 du 31/12/2025 : LFSS 2026, décision 2025-899 DC)
